@@ -1,0 +1,2430 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "4": {
+      "title": "Drivers",
+      "id": "116.5182b17d3c9f5b4b",
+      "attr": {
+        "position": [
+          597,
+          -1176,
+          1
+        ],
+        "style": {
+          "background": "#008000"
+        }
+      },
+      "ideas": {
+        "-1": {
+          "title": "Geophysical events",
+          "id": "126.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Earthquakes",
+              "id": "205.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Frequency",
+                  "id": "206.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Magnitude",
+                  "id": "210.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Location",
+                  "id": "211.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "2": {
+              "title": "Mass movement",
+              "id": "213.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Location",
+                  "id": "215.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Severity",
+                  "id": "216.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "3": {
+              "title": "Erosion",
+              "id": "218.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Location",
+                  "id": "223.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Extent",
+                  "id": "226.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Rate",
+                  "id": "227.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "4": {
+              "title": "Volcanism",
+              "id": "231.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Location",
+                  "id": "233.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "5": {
+              "title": "Flooding",
+              "id": "234.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Location",
+                  "id": "235.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Severity",
+                  "id": "236.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Frequency",
+                  "id": "238.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "6": {
+              "title": "Sea level rise",
+              "id": "239.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Location",
+                  "id": "240.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Extent",
+                  "id": "241.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "7": {
+              "title": "Magnetic shift",
+              "id": "242.5182b17d3c9f5b4b"
+            },
+            "8": {
+              "title": "Fire",
+              "id": "244.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Location",
+                  "id": "246.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Frequency",
+                  "id": "247.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Type",
+                  "id": "248.5182b17d3c9f5b4b"
+                },
+                "4": {
+                  "title": "Intensity",
+                  "id": "249.5182b17d3c9f5b4b"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          }
+        },
+        "-2": {
+          "title": "Extraterrestrial ",
+          "id": "137.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Meteor impacts",
+              "id": "262.5182b17d3c9f5b4b"
+            },
+            "2": {
+              "title": "Solar flares",
+              "id": "264.5182b17d3c9f5b4b",
+              "ideas": {}
+            },
+            "3": {
+              "title": "Sunspots",
+              "id": "266.5182b17d3c9f5b4b"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          }
+        },
+        "-3": {
+          "title": "Technological",
+          "id": "144.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Artificial intelligence and automation",
+              "id": "272.5182b17d3c9f5b4b"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "position": [
+              80.5,
+              153,
+              3
+            ],
+            "collapsed": true
+          }
+        },
+        "-0.5": {
+          "title": "Climate",
+          "id": "125.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Temperature",
+              "id": "151.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Maximum daily http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:tminl13&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "152.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Minimum daily",
+                  "id": "153.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Extreme Heat Waves Per Year Maximum Temperature > 35C On 3 Or More Consecutive Days http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:heatwaves2c&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "155.5182b17d3c9f5b4b"
+                },
+                "4": {
+                  "title": "Cold Spells http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:coldspells2c&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "157.5182b17d3c9f5b4b"
+                },
+                "5": {
+                  "title": "Extremes (1950 - 2000) Of Minimum Temperatures (C) All 12 Months http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:tminl13&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "493.753ba765da977f65"
+                },
+                "6": {
+                  "title": "Extremes (1950 - 2000) Of Maximum Temperatures (C) All 12 Months http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:tmaxh13&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "494.753ba765da977f65",
+                  "ideas": {}
+                },
+                "7": {
+                  "title": "Heat Waves Per Year Maximum Temperature > 30C On 3 Or More Consecutive Days http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:heatwaves1c&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "496.753ba765da977f65"
+                },
+                "8": {
+                  "title": "Extreme Heat Waves Per Year Maximum Temperature > 30C On 5 Or More Consecutive Days http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:heatwaves4c&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "497.753ba765da977f65"
+                },
+                "9": {
+                  "title": "Mean Annual Temperature http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:frostfrq&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "504.753ba765da977f65"
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Humidity",
+              "id": "163.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Maximum",
+                  "id": "165.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Minimum",
+                  "id": "167.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Time",
+                  "id": "169.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "3": {
+              "title": "Precipitation",
+              "id": "170.5182b17d3c9f5b4b",
+              "ideas": {
+                "2": {
+                  "title": "Frequency",
+                  "id": "172.5182b17d3c9f5b4b",
+                  "ideas": {
+                    "1": {
+                      "title": "Number Of Days Per Year With Stormflow > 2mm/Day http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:quickfgt2mm.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "452.753ba765da977f65"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Intensity",
+                  "id": "173.5182b17d3c9f5b4b",
+                  "ideas": {
+                    "1": {
+                      "title": "Highest Annual Stormflows (mm) In 10 Years http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:hist_quickf.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "450.753ba765da977f65"
+                    },
+                    "2": {
+                      "title": "Mean Annual Stormflow Losses from Irrigated Areas http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:stormflow.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "453.753ba765da977f65"
+                    },
+                    "3": {
+                      "title": "Runoff and Streamflow and Their Variability http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:hist_celrun&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "454.753ba765da977f65"
+                    },
+                    "4": {
+                      "title": "One Day Design Rainfall 10 Year Return Period http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:hist_evd.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "455.753ba765da977f65"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Type",
+                  "id": "174.5182b17d3c9f5b4b",
+                  "ideas": {
+                    "1": {
+                      "title": "Rain",
+                      "id": "175.5182b17d3c9f5b4b",
+                      "ideas": {
+                        "1": {
+                          "title": "Mean Annual Precipitation (mm) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:gmap&styles=&bbox=16.408343,-34.87503,32.92534,-22.074774&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "171.5182b17d3c9f5b4b",
+                          "attr": {}
+                        },
+                        "2": {
+                          "title": "Annual Precipitation (mm) Driest Year In 10 (Per Quaternary Catchment)  http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:rfl_qc.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "448.753ba765da977f65",
+                          "attr": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Fog",
+                      "id": "178.5182b17d3c9f5b4b"
+                    },
+                    "3": {
+                      "title": "Hail",
+                      "id": "179.5182b17d3c9f5b4b"
+                    },
+                    "4": {
+                      "title": "Snow",
+                      "id": "180.5182b17d3c9f5b4b"
+                    },
+                    "5": {
+                      "title": "Frequency of Frost Occurrences  http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:frostfrq&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "446.753ba765da977f65"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Rainy season",
+                  "id": "181.5182b17d3c9f5b4b",
+                  "ideas": {
+                    "1": {
+                      "title": "Seasonality http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:rfl_seasconc.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "184.5182b17d3c9f5b4b"
+                    },
+                    "2": {
+                      "title": "Length",
+                      "id": "185.5182b17d3c9f5b4b"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Wind",
+              "id": "187.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Daily average strength",
+                  "id": "188.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Direction",
+                  "id": "190.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "Seasonality",
+                  "id": "192.5182b17d3c9f5b4b"
+                },
+                "4": {
+                  "title": "Extreme events",
+                  "id": "194.5182b17d3c9f5b4b"
+                }
+              },
+              "attr": {
+                "collapsed": true
+              }
+            },
+            "5": {
+              "title": "Atmospheric conditions",
+              "id": "195.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Pressure system dynamics",
+                  "id": "196.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Pressure system location",
+                  "id": "198.5182b17d3c9f5b4b"
+                },
+                "3": {
+                  "title": "CO2 concentration",
+                  "id": "201.5182b17d3c9f5b4b"
+                },
+                "4": {
+                  "title": "Ozone",
+                  "id": "203.5182b17d3c9f5b4b"
+                }
+              }
+            },
+            "6": {
+              "title": "UV exposure",
+              "id": "270.5182b17d3c9f5b4b"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          }
+        },
+        "-0.25": {
+          "title": "Biological/Biosphere",
+          "id": "132.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Species diversity",
+              "id": "250.5182b17d3c9f5b4b",
+              "ideas": {
+                "1": {
+                  "title": "Indigenous pioneer species",
+                  "id": "251.5182b17d3c9f5b4b"
+                },
+                "2": {
+                  "title": "Alien invasive species",
+                  "id": "254.5182b17d3c9f5b4b"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          }
+        },
+        "-2.5": {
+          "title": "Sociopolitical",
+          "id": "140.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Immigration",
+              "id": "257.5182b17d3c9f5b4b"
+            },
+            "2": {
+              "title": "Emigration",
+              "id": "258.5182b17d3c9f5b4b"
+            },
+            "3": {
+              "title": "Human action/inaction",
+              "id": "259.5182b17d3c9f5b4b"
+            },
+            "4": {
+              "title": "Demographic shifts",
+              "id": "261.5182b17d3c9f5b4b"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          }
+        },
+        "-0.75": {
+          "title": "Economic",
+          "id": "147.5182b17d3c9f5b4b",
+          "ideas": {
+            "1": {
+              "title": "Inequality",
+              "id": "276.5182b17d3c9f5b4b"
+            },
+            "2": {
+              "title": "Growth/GDP",
+              "id": "277.5182b17d3c9f5b4b"
+            },
+            "3": {
+              "title": "Job market",
+              "id": "278.5182b17d3c9f5b4b"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          }
+        },
+        "-0.125": {
+          "title": "Geosphere",
+          "id": "305.2a8037dba3801c82",
+          "attr": {
+            "position": [
+              79.5,
+              -178,
+              4
+            ],
+            "style": {
+              "background": "#99CC00"
+            },
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Water Resources",
+              "ideas": {
+                "1": {
+                  "title": "Groundwater",
+                  "ideas": {
+                    "1": {
+                      "title": "Depth to Groundwater (mamsl)\n",
+                      "id": "316.2a8037dba3801c82"
+                    },
+                    "2": {
+                      "title": "Depth to Groundwater (mbgl)",
+                      "id": "317.2a8037dba3801c82"
+                    },
+                    "3": {
+                      "title": "Average Groundwater exploitation Potential (m3/km2/a)",
+                      "id": "318.2a8037dba3801c82"
+                    },
+                    "4": {
+                      "title": "Utilisable groundwater exploitation potential (m3/km2/a)",
+                      "id": "319.2a8037dba3801c82"
+                    },
+                    "5": {
+                      "title": "Groundwater recharge (mm/a)",
+                      "id": "320.2a8037dba3801c82"
+                    },
+                    "6": {
+                      "title": "Electrical conductivity (mS/m)",
+                      "id": "321.2a8037dba3801c82"
+                    },
+                    "7": {
+                      "title": "Groundwater contamination",
+                      "id": "322.2a8037dba3801c82"
+                    }
+                  },
+                  "id": "315.2a8037dba3801c82"
+                },
+                "2": {
+                  "title": "Surface water (Fresh)",
+                  "ideas": {
+                    "1": {
+                      "title": "Rivers",
+                      "ideas": {
+                        "1": {
+                          "title": "Flow (m/s)",
+                          "id": "325.2a8037dba3801c82"
+                        },
+                        "2": {
+                          "title": "Water Quality",
+                          "id": "326.2a8037dba3801c82"
+                        }
+                      },
+                      "id": "324.2a8037dba3801c82"
+                    },
+                    "2": {
+                      "title": "Dams and Lakes",
+                      "ideas": {
+                        "1": {
+                          "title": "Capacity",
+                          "id": "328.2a8037dba3801c82"
+                        },
+                        "2": {
+                          "title": "Water Quality",
+                          "id": "329.2a8037dba3801c82"
+                        },
+                        "3": {
+                          "title": "Discharge Rate",
+                          "id": "330.2a8037dba3801c82"
+                        }
+                      },
+                      "id": "327.2a8037dba3801c82"
+                    },
+                    "3": {
+                      "title": "Wetlands",
+                      "id": "331.2a8037dba3801c82"
+                    }
+                  },
+                  "id": "323.2a8037dba3801c82"
+                },
+                "3": {
+                  "title": "Marine",
+                  "ideas": {
+                    "1": {
+                      "title": "Offshore Marine",
+                      "id": "333.2a8037dba3801c82"
+                    },
+                    "2": {
+                      "title": "Shallow Marine",
+                      "id": "334.2a8037dba3801c82"
+                    }
+                  },
+                  "id": "332.2a8037dba3801c82"
+                }
+              },
+              "id": "314.2a8037dba3801c82"
+            },
+            "2": {
+              "title": "Air Resources",
+              "ideas": {
+                "1": {
+                  "title": "Particulates",
+                  "id": "351.2a8037dba3801c82"
+                },
+                "2": {
+                  "title": "Nox/Sox",
+                  "id": "352.2a8037dba3801c82"
+                }
+              },
+              "id": "350.2a8037dba3801c82"
+            },
+            "3": {
+              "title": "Soil Resources",
+              "ideas": {
+                "1": {
+                  "title": "Salinity",
+                  "id": "354.2a8037dba3801c82"
+                },
+                "2": {
+                  "title": "Heavy Metals",
+                  "id": "355.2a8037dba3801c82"
+                },
+                "3": {
+                  "title": "Organic Carbon",
+                  "id": "356.2a8037dba3801c82"
+                }
+              },
+              "id": "353.2a8037dba3801c82"
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "title": "Sector",
+      "id": "28.5dfbc8ad9a705aa0",
+      "ideas": {
+        "1": {
+          "title": "Energy ",
+          "id": "337.753ba765da977f65",
+          "ideas": {
+            "1": {
+              "title": "Fossil fules",
+              "id": "346.753ba765da977f65",
+              "ideas": {}
+            },
+            "2": {
+              "title": "Renewables",
+              "id": "348.753ba765da977f65"
+            },
+            "3": {
+              "title": "Biomass",
+              "id": "349.753ba765da977f65"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            },
+            "position": [
+              74,
+              -206,
+              1
+            ],
+            "collapsed": true
+          }
+        },
+        "2": {
+          "title": "Environment",
+          "id": "52.5dfbc8ad9a705aa0",
+          "ideas": {
+            "1": {
+              "title": "Environmental exploitation",
+              "id": "64.5dfbc8ad9a705aa0",
+              "attr": {}
+            },
+            "2": {
+              "title": "Ecosystem services",
+              "id": "66.5dfbc8ad9a705aa0"
+            },
+            "3": {
+              "title": "Terrestrial Ecosystem Function",
+              "id": "99.2a8037dba3801c82",
+              "attr": {},
+              "ideas": {
+                "1": {
+                  "title": "Transpiration",
+                  "id": "456.753ba765da977f65",
+                  "ideas": {
+                    "1": {
+                      "title": "Mean Annual Green Water Flows (mm) http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:hist_green.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "459.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#3366FF"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Biodiversity",
+              "id": "93.2a8037dba3801c82",
+              "attr": {}
+            },
+            "5": {
+              "title": "Water Resources",
+              "id": "108.2a8037dba3801c82",
+              "ideas": {
+                "2": {
+                  "title": "Groundwater",
+                  "id": "154.2a8037dba3801c82",
+                  "ideas": {
+                    "1": {
+                      "title": "Depth to Groundwater (mamsl) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:wl_mamsl&styles=&bbox=16.066,-34.881,33.503,-21.976&width=512&height=378&srs=EPSG:4326&format=application/openlayers\n",
+                      "id": "164.2a8037dba3801c82",
+                      "attr": {
+                        "position": [
+                          107,
+                          -306,
+                          2
+                        ]
+                      }
+                    },
+                    "2": {
+                      "title": "Depth to Groundwater (mbgl) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:wl_mbgl&styles=&bbox=16.066,-34.881,33.503,-21.985&width=512&height=378&srs=EPSG:4326&format=application/openlayers",
+                      "id": "182.2a8037dba3801c82"
+                    },
+                    "3": {
+                      "title": "Average Groundwater exploitation Potential (m3/km2/a) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:agep&styles=&bbox=16.074,-34.887,33.504,-21.991&width=512&height=378&srs=EPSG:4326&format=application/openlayers",
+                      "id": "186.2a8037dba3801c82"
+                    },
+                    "4": {
+                      "title": "Utilisable groundwater exploitation potential (m3/km2/a) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:ugep_dry&styles=&bbox=16.077,-34.887,33.508,-21.991&width=512&height=378&srs=EPSG:4326&format=application/openlayers",
+                      "id": "191.2a8037dba3801c82"
+                    },
+                    "5": {
+                      "title": "Groundwater recharge (mm/a) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:rech_mm&styles=&bbox=16.066,-34.881,33.512,-21.966&width=512&height=379&srs=EPSG:4326&format=application/openlayers",
+                      "id": "197.2a8037dba3801c82"
+                    },
+                    "6": {
+                      "title": "Electrical conductivity (mS/m) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:saqual_geo_DDWGS84&styles=&bbox=16.459,-34.834,32.892,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "200.2a8037dba3801c82"
+                    },
+                    "7": {
+                      "title": "Groundwater contamination",
+                      "id": "204.2a8037dba3801c82"
+                    },
+                    "8": {
+                      "title": "Aquifer type and yield (l/s) http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:sayld_geo_DDWGS84&styles=&bbox=16.458,-34.832,32.891,-22.124&width=512&height=395&srs=EPSG:4326&format=application/openlayers\n",
+                      "id": "399.753ba765da977f65",
+                      "attr": {
+                        "position": [
+                          107,
+                          247,
+                          1
+                        ]
+                      }
+                    },
+                    "9": {
+                      "title": "Groundwater vulnerability http://app01.saeon.ac.za:8081/geoserver/GEOSS/wms?service=WMS&version=1.1.0&request=GetMap&layers=GEOSS:drastic&styles=&bbox=16.066,-34.884,33.517,-21.968&width=512&height=378&srs=EPSG:4326&format=application/openlayers",
+                      "id": "400.753ba765da977f65"
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
+                },
+                "3": {
+                  "title": "Surface water (Fresh)",
+                  "id": "156.2a8037dba3801c82",
+                  "ideas": {
+                    "1": {
+                      "title": "Rivers",
+                      "id": "212.2a8037dba3801c82",
+                      "ideas": {
+                        "1": {
+                          "title": "Mean Annual Blue Water Flows (mm) http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:hist_blue.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "219.2a8037dba3801c82",
+                          "attr": {
+                            "style": {
+                              "background": "#0000FF"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Water Quality",
+                          "id": "221.2a8037dba3801c82"
+                        },
+                        "2.5": {
+                          "title": "Rivers of South Africa 1:500 000 http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:wriall500&styles=&bbox=15.98333,-34.769989,33.999252,-19.791433&width=512&height=425&srs=EPSG:4326&format=application/openlayers",
+                          "id": "464.753ba765da977f65",
+                          "ideas": {}
+                        },
+                        "2.75": {
+                          "title": "River profile classification Catchment B http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsb-ll&styles=&bbox=28.357481,-26.511789,32.639572,-22.613234&width=512&height=466&srs=EPSG:4326&format=application/openlayers",
+                          "id": "466.753ba765da977f65",
+                          "ideas": {}
+                        },
+                        "2.625": {
+                          "title": "River profile classification Catchment A http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsa-ll&styles=&bbox=25.235632,-26.194082,33.999252,-19.791433&width=512&height=374&srs=EPSG:4326&format=application/openlayers",
+                          "id": "462.753ba765da977f65"
+                        },
+                        "3.75": {
+                          "title": "River profile classification Catchment C http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsc-ll&styles=&bbox=23.417751,-30.272335,30.298738,-25.910816&width=520&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "470.753ba765da977f65"
+                        },
+                        "4.75": {
+                          "title": "River profile classification Catchment D http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsd-ll&styles=&bbox=15.98333,-32.661224,29.450325,-21.814405&width=512&height=412&srs=EPSG:4326&format=application/openlayers",
+                          "id": "471.753ba765da977f65"
+                        },
+                        "5.75": {
+                          "title": "River profile classification Catchment E http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemse-ll&styles=&bbox=18.187908,-33.299572,20.804314,-30.069099&width=414&height=512&srs=EPSG:4326&format=application/openlayers",
+                          "id": "472.753ba765da977f65"
+                        },
+                        "6.75": {
+                          "title": "River profile classification Catchment F http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:maintemsf-ll&styles=&bbox=16.573786,-31.317339,18.654818,-28.514421&width=380&height=512&srs=EPSG:4326&format=application/openlayers",
+                          "id": "473.753ba765da977f65"
+                        },
+                        "7.75": {
+                          "title": "River profile classification Catchment G http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsg-ll&styles=&bbox=17.901226,-34.769989,20.731922,-31.755667&width=480&height=512&srs=EPSG:4326&format=application/openlayers",
+                          "id": "474.753ba765da977f65"
+                        },
+                        "8.75": {
+                          "title": "River profile classification Catchment H http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsh-ll&styles=&bbox=18.991961,-34.408077,21.49011,-33.211143&width=688&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "476.753ba765da977f65"
+                        },
+                        "9.75": {
+                          "title": "River profile classification Catchment K http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsk-ll&styles=&bbox=21.900425,-34.172249,24.93815,-33.737019&width=2303&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "477.753ba765da977f65"
+                        },
+                        "10.75": {
+                          "title": "River profile classification Catchment L http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:maintemsl-ll&styles=&bbox=22.431015,-33.970097,25.182171,-31.502464&width=512&height=459&srs=EPSG:4326&format=application/openlayers",
+                          "id": "478.753ba765da977f65"
+                        },
+                        "11.75": {
+                          "title": "River profile classification Catchment M http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsm-ll&styles=&bbox=24.863668,-33.988277,25.694645,-33.581509&width=674&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "479.753ba765da977f65"
+                        },
+                        "12.75": {
+                          "title": "River profile classification Catchment N http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsn-ll&styles=&bbox=23.797525,-33.722095,26.150091,-31.715935&width=512&height=436&srs=EPSG:4326&format=application/openlayers",
+                          "id": "480.753ba765da977f65"
+                        },
+                        "13.75": {
+                          "title": "River profile classification Catchment P http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsp-ll&styles=&bbox=25.546698,-33.726429,27.048801,-33.138317&width=842&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "481.753ba765da977f65"
+                        },
+                        "14.75": {
+                          "title": "River profile classification Catchment Q http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsq-ll&styles=&bbox=24.69894,-33.493809,27.139057,-31.081608&width=512&height=506&srs=EPSG:4326&format=application/openlayers",
+                          "id": "482.753ba765da977f65"
+                        },
+                        "15.75": {
+                          "title": "River profile classification Catchment R http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsr-ll&styles=&bbox=26.757578,-33.437519,28.372738,-32.561825&width=608&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "483.753ba765da977f65"
+                        },
+                        "16.75": {
+                          "title": "River profile classification Catchment S http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemss-ll&styles=&bbox=26.275133,-32.679314,28.388252,-31.20491&width=512&height=357&srs=EPSG:4326&format=application/openlayers",
+                          "id": "484.753ba765da977f65"
+                        },
+                        "17.75": {
+                          "title": "River profile classification Catchment T http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemst-ll&styles=&bbox=27.720306,-32.635612,30.459406,-29.620329&width=465&height=512&srs=EPSG:4326&format=application/openlayers",
+                          "id": "485.753ba765da977f65"
+                        },
+                        "18.75": {
+                          "title": "River profile classification Catchment U http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsu-ll&styles=&bbox=29.293541,-30.614706,31.411373,-28.943768&width=512&height=403&srs=EPSG:4326&format=application/openlayers",
+                          "id": "486.753ba765da977f65"
+                        },
+                        "19.75": {
+                          "title": "River profile classification Catchment V http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsv-ll&styles=&bbox=28.8762,-29.400169,31.498932,-27.308241&width=512&height=408&srs=EPSG:4326&format=application/openlayers",
+                          "id": "487.753ba765da977f65"
+                        },
+                        "20.75": {
+                          "title": "River profile classification Catchment W http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsw-ll&styles=&bbox=30.108017,-29.179012,32.881584,-25.932562&width=437&height=512&srs=EPSG:4326&format=application/openlayers",
+                          "id": "488.753ba765da977f65"
+                        },
+                        "21.75": {
+                          "title": "River profile classification Catchment X http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:mainstemsx-ll&styles=&bbox=29.817684,-26.33383,32.956348,-24.187483&width=512&height=350&srs=EPSG:4326&format=application/openlayers",
+                          "id": "489.753ba765da977f65"
+                        },
+                        "2.25": {
+                          "title": "Koppen Climatic Zonation http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:koppen&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                          "id": "501.753ba765da977f65",
+                          "attr": {
+                            "style": {
+                              "background": "#FF0000"
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "collapsed": true
+                      }
+                    },
+                    "2": {
+                      "title": "Dams and Lakes",
+                      "id": "214.2a8037dba3801c82",
+                      "ideas": {
+                        "1": {
+                          "title": "Capacity",
+                          "id": "225.2a8037dba3801c82"
+                        },
+                        "2": {
+                          "title": "Water Quality",
+                          "id": "229.2a8037dba3801c82"
+                        },
+                        "3": {
+                          "title": "Discharge Rate",
+                          "id": "232.2a8037dba3801c82"
+                        },
+                        "4": {
+                          "title": "Location http://app01.saeon.ac.za:8080/geoserver/DWA_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=DWA_shp:dams500g&styles=&bbox=18.333328,-34.751812,32.881123,-22.187214&width=512&height=442&srs=EPSG:4326&format=application/openlayers",
+                          "id": "490.753ba765da977f65"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Wetlands",
+                      "id": "217.2a8037dba3801c82",
+                      "ideas": {
+                        "1": {
+                          "title": "Sensitive Wetlands (1:50 000) http://app01.saeon.ac.za:8081/geoserver/SANBI/wms?service=WMS&version=1.1.0&request=GetMap&layers=SANBI:sensitive_wetlands&styles=&bbox=17.845,-34.762,24.164,-30.929&width=544&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "491.753ba765da977f65"
+                        },
+                        "2": {
+                          "title": "Western Cape Wetlands Directory Data http://app01.saeon.ac.za:8081/geoserver/SANBI/wms?service=WMS&version=1.1.0&request=GetMap&layers=SANBI:Western_Cape_Wetlands_Directory_Data&styles=&bbox=17.92,-34.8,23.569,-31.467&width=559&height=330&srs=EPSG:4326&format=application/openlayers",
+                          "id": "492.753ba765da977f65"
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Marine",
+                  "id": "302.2a8037dba3801c82",
+                  "ideas": {
+                    "1": {
+                      "title": "Offshore Marine",
+                      "id": "160.2a8037dba3801c82",
+                      "attr": {}
+                    },
+                    "2": {
+                      "title": "Shallow Marine",
+                      "id": "158.2a8037dba3801c82",
+                      "attr": {}
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Evaporation",
+                  "id": "460.753ba765da977f65",
+                  "ideas": {
+                    "1": {
+                      "title": "Mean Annual White Water Flows (mm) http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:hist_white.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "461.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#0000FF"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "Air Resources",
+              "id": "338.2a8037dba3801c82",
+              "ideas": {
+                "1": {
+                  "title": "Particulates",
+                  "id": "340.2a8037dba3801c82"
+                },
+                "2": {
+                  "title": "Nox/Sox",
+                  "id": "341.2a8037dba3801c82"
+                }
+              }
+            },
+            "7": {
+              "title": "Soil Resources",
+              "id": "339.2a8037dba3801c82",
+              "ideas": {
+                "1": {
+                  "title": "Salinity",
+                  "id": "342.2a8037dba3801c82"
+                },
+                "2": {
+                  "title": "Heavy Metals",
+                  "id": "344.2a8037dba3801c82"
+                },
+                "3": {
+                  "title": "Organic Carbon",
+                  "id": "345.2a8037dba3801c82"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            },
+            "collapsed": true
+          }
+        },
+        "3": {
+          "title": "Infrastructure",
+          "id": "79.2a8037dba3801c82",
+          "ideas": {
+            "1": {
+              "title": "Human shelter, settlements",
+              "id": "50.5dfbc8ad9a705aa0",
+              "ideas": {
+                "1": {
+                  "title": "Fuel",
+                  "id": "67.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "Access",
+                      "id": "383.753ba765da977f65"
+                    },
+                    "2": {
+                      "title": "Cost",
+                      "id": "384.753ba765da977f65"
+                    },
+                    "3": {
+                      "title": "Quality",
+                      "id": "385.753ba765da977f65"
+                    },
+                    "4": {
+                      "title": "Demand",
+                      "id": "386.753ba765da977f65"
+                    },
+                    "5": {
+                      "title": "Location",
+                      "id": "387.753ba765da977f65"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Electricity",
+                  "id": "70.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "Access",
+                      "id": "388.753ba765da977f65"
+                    },
+                    "2": {
+                      "title": "Cost",
+                      "id": "389.753ba765da977f65",
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Quality",
+                      "id": "391.753ba765da977f65"
+                    },
+                    "4": {
+                      "title": "Demand",
+                      "id": "392.753ba765da977f65"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Housing",
+                  "id": "71.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "Access",
+                      "id": "393.753ba765da977f65",
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Cost",
+                      "id": "395.753ba765da977f65"
+                    },
+                    "3": {
+                      "title": "Quality",
+                      "id": "396.753ba765da977f65"
+                    },
+                    "4": {
+                      "title": "Demand",
+                      "id": "397.753ba765da977f65"
+                    },
+                    "5": {
+                      "title": "Location",
+                      "id": "398.753ba765da977f65"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Waste Disposal",
+                  "id": "414.753ba765da977f65",
+                  "ideas": {
+                    "1": {
+                      "title": "Waste Water Treatment Sites http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:WP04_02_WWCW_I&styles=&bbox=16.483333,-34.5913,32.01405556,-22.6939&width=512&height=392&srs=EPSG:4326&format=application/openlayers",
+                      "id": "415.753ba765da977f65"
+                    },
+                    "2": {
+                      "title": "Solid Waste Disposal Sites http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:permits&styles=&bbox=16.496956552500496,-34.58405773038921,32.76162729205135,-22.350371014726484&width=512&height=385&srs=EPSG:4326&format=application/openlayers",
+                      "id": "416.753ba765da977f65"
+                    },
+                    "3": {
+                      "title": "Serviced and Unserviced Solid Waste - Organic Component http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:T_MESO_S&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "418.753ba765da977f65"
+                    },
+                    "4": {
+                      "title": "Serviced and Unserviced Waste Water - Organic Component http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:T_MESO_C&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "419.753ba765da977f65"
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      173,
+                      324,
+                      1
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#C0C0C0"
+                }
+              }
+            },
+            "2": {
+              "title": "Transportation",
+              "id": "371.753ba765da977f65",
+              "ideas": {
+                "1": {
+                  "title": "Private",
+                  "id": "372.753ba765da977f65",
+                  "ideas": {
+                    "1": {
+                      "title": "Car",
+                      "id": "373.753ba765da977f65"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Public",
+                  "id": "375.753ba765da977f65",
+                  "ideas": {
+                    "1": {
+                      "title": "Bus",
+                      "id": "377.753ba765da977f65",
+                      "ideas": {}
+                    },
+                    "2": {
+                      "title": "Train",
+                      "id": "379.753ba765da977f65"
+                    },
+                    "3": {
+                      "title": "Taxi",
+                      "id": "380.753ba765da977f65"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            },
+            "collapsed": true
+          }
+        },
+        "4": {
+          "title": "Primary Food production",
+          "id": "82.2a8037dba3801c82",
+          "ideas": {
+            "1": {
+              "title": "Agriculture",
+              "id": "87.5ab80dfc61ea1388",
+              "ideas": {
+                "1": {
+                  "title": "Commercial Cropping Systems",
+                  "id": "89.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Summer Rainfall Crops http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:CropType&styles=&bbox=23.06119542334104,-30.69302338212638,31.968716410876148,-24.527499605153285&width=512&height=354&srs=EPSG:4326&format=application/openlayers",
+                      "id": "92.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Winter Rainfall Crops http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:WC_Flyover_Winter2013&styles=&bbox=17.828725991511476,-34.791955305792555,24.189317939371563,-30.489215409263554&width=512&height=346&srs=EPSG:4326&format=application/openlayers",
+                      "id": "95.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Field crop boundaries http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:FieldCrop&styles=&bbox=16.610316557262966,-34.79195530595731,32.84274498961955,-22.128657273300874&width=512&height=399&srs=EPSG:4326&format=application/openlayers",
+                      "id": "409.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#FFFF00"
+                        },
+                        "note": {
+                          "index": 229,
+                          "text": "This Dataset has both commercial and non-commercial layers. If we use it we need to define that"
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Extent of crop cultivation in South Africa http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:cropland_rsa&styles=&bbox=17.87917501867629,-34.72917318565405,32.84584168833629,-22.143699645996094&width=512&height=430&srs=EPSG:4326&format=application/openlayers",
+                      "id": "410.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#FFFFFF"
+                        },
+                        "note": {
+                          "index": 230,
+                          "text": "this dataset is pretty old and very coarse. Rather use the field boundaries data"
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "Moisture Growing Season Duration Of Season (Days) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mgs_duration&styles=&bbox=15.991667,-35.008333,33.365667,-21.714333&width=512&height=391&srs=EPSG:4326&format=application/openlayers",
+                      "id": "412.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#FFFF00"
+                        },
+                        "note": {
+                          "index": 231,
+                          "text": "Useful for commercial and non-commercial"
+                        }
+                      }
+                    },
+                    "6": {
+                      "title": "Moisture Growing Season Duration Of Season http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mgs_duration&styles=&bbox=15.991667,-35.008333,33.365667,-21.714333&width=512&height=391&srs=EPSG:4326&format=application/openlayers",
+                      "id": "498.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#FF0000"
+                        },
+                        "note": {
+                          "index": 232,
+                          "text": "Useful for commercial and non-commercial"
+                        }
+                      }
+                    },
+                    "7": {
+                      "title": "Moisture Growing Season Mean End Of Season http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mgs_end&styles=&bbox=15.991667,-35.008333,33.365667,-21.714333&width=512&height=391&srs=EPSG:4326&format=application/openlayers",
+                      "id": "499.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#FF0000"
+                        }
+                      }
+                    },
+                    "8": {
+                      "title": "Accumulated Positive Chill Units (May - September) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:pcuaccc&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "503.753ba765da977f65",
+                      "attr": {
+                        "style": {
+                          "background": "#FF0000"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      97.25390625,
+                      -88.734375,
+                      4
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "Starch-Based Crops",
+                  "id": "97.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Sorghum http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:yld_sorghum&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "98.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Maize",
+                      "id": "100.5ab80dfc61ea1388",
+                      "ideas": {
+                        "1": {
+                          "title": "Highest Mean Maize Yield (T.Ha-1.Season-1)  Irrespective Of Plant Date and Hybrid http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:maizehighyld.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "401.753ba765da977f65"
+                        },
+                        "2": {
+                          "title": "Mean Maize Yield (T/Ha/Season) Long Season Hybrid http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:maizelong.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "403.753ba765da977f65"
+                        },
+                        "3": {
+                          "title": "Mean Maize Yield (T/Ha/Season) Medium Season Hybrid http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:maizemed.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "405.753ba765da977f65"
+                        },
+                        "4": {
+                          "title": "Mean Maize Yield (T/Ha/Season) Short Season Hybrid http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:maizeshort.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "406.753ba765da977f65"
+                        },
+                        "5": {
+                          "title": "Mean Maize Yield (T/Ha/Season) Ultra-Short Season http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:maizeultrashort.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                          "id": "407.753ba765da977f65"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Wheat",
+                      "id": "101.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Rice",
+                      "id": "102.5ab80dfc61ea1388"
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
+                },
+                "3": {
+                  "title": "Oil Producing Crops",
+                  "id": "103.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Groundnut Yield Estimation (T.Ha-1.Season-1; Shelled) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:yld_groundnut&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "104.5ab80dfc61ea1388",
+                      "attr": {
+                        "position": [
+                          144.7656,
+                          -74,
+                          1
+                        ]
+                      }
+                    },
+                    "2": {
+                      "title": "Soybean Yield Estimation (T.Ha-1.Season-1) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:yld_soybean&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "105.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Sunflower Seed Yield Estimation (T.Ha-1.Season-1) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:yld_sunflower&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers ",
+                      "id": "106.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Canola",
+                      "id": "107.5ab80dfc61ea1388",
+                      "ideas": {}
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true
+                  }
+                },
+                "4": {
+                  "title": "Subsistence Farming",
+                  "id": "109.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Sugarcane http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_SUG&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "111.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Sorghum http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_SOR&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "124.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Sweet Sorghum http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_SSO&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "127.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Sunflower http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_SUN&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "129.5ab80dfc61ea1388"
+                    },
+                    "5": {
+                      "title": "Groundnuts http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_NUT&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "133.5ab80dfc61ea1388"
+                    },
+                    "6": {
+                      "title": "Maize http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_MAI&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "135.5ab80dfc61ea1388"
+                    },
+                    "7": {
+                      "title": "Soybeans http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:1_03_SOY&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "137.5ab80dfc61ea1388"
+                    },
+                    "8": {
+                      "title": "Areas http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:Informal&styles=&bbox=17.562464979480524,-34.74776101459784,32.84274498961955,-22.133538269074034&width=512&height=422&srs=EPSG:4326&format=application/openlayers",
+                      "id": "408.753ba765da977f65"
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      99.24609375,
+                      103.2578125,
+                      3
+                    ]
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Live stock",
+              "id": "114.5ab80dfc61ea1388",
+              "ideas": {}
+            },
+            "3": {
+              "title": "Aquaculture",
+              "id": "115.5ab80dfc61ea1388"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            }
+          }
+        },
+        "5": {
+          "title": "Coastal Zone",
+          "id": "83.2a8037dba3801c82",
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            }
+          }
+        },
+        "6": {
+          "title": "Extractive/Other Land Use",
+          "id": "85.2a8037dba3801c82",
+          "ideas": {
+            "1": {
+              "title": "Land Degradation",
+              "id": "121.5ab80dfc61ea1388",
+              "ideas": {
+                "1": {
+                  "title": "Extent of Degraded Land http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:Degraded_land&styles=&bbox=16.870879091348016,-34.82034813586267,32.894246430812224,-22.127320551202633&width=512&height=405&srs=EPSG:4326&format=application/openlayers",
+                  "id": "413.753ba765da977f65"
+                }
+              }
+            },
+            "2": {
+              "title": "Forestry",
+              "id": "143.5ab80dfc61ea1388",
+              "ideas": {
+                "1": {
+                  "title": "Commercial Forests",
+                  "id": "146.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Net Primary Production (t/ha) http://app01.saeon.ac.za:8082/geoserver/BEEH_shp/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_shp:prim_prod.shp&styles=&bbox=16.469,-34.834,32.891,-22.124&width=512&height=396&srs=EPSG:4326&format=application/openlayers",
+                      "id": "148.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Usable Plantation Residue (t/annum) http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:WP06_MESO_Commercial&styles=&bbox=16.451920000028533,-34.83416989569374,32.892531746697685,-22.125030000001036&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "149.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Location http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:Commercial_PlantationsSA&styles=&bbox=16.900355413109693,-35.03087436419569,34.51388913906734,-22.54009885423357&width=512&height=363&srs=EPSG:4326&format=application/openlayers",
+                      "id": "422.753ba765da977f65"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Commercial sawmills",
+                  "id": "153.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Location of Sawmills http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:Sawmill_SouthAfrica&styles=&bbox=22.450519,-33.994708,31.042617,-23.767&width=430&height=512&srs=EPSG:4326&format=application/openlayers",
+                      "id": "421.753ba765da977f65"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Optimal Growth areas and yield",
+                  "id": "156.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Acacia mearnsii (bark) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mai_bwb&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "183.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Acacia mearnsii (timber) http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mai_bwt&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "189.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Pinus eliotti http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mai_pel&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "193.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Pinus patula http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mai_ppa&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "197.5ab80dfc61ea1388"
+                    },
+                    "5": {
+                      "title": "Pinus taeda http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mai_pta&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "199.5ab80dfc61ea1388"
+                    },
+                    "6": {
+                      "title": "Eucalyptus grandis http://app01.saeon.ac.za:8082/geoserver/BEEH_grid/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEEH_grid:mai_egr&styles=&bbox=16.458333,-34.841667,32.908333,-22.141667&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                      "id": "202.5ab80dfc61ea1388"
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      77,
+                      159,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Mining and quarrying",
+              "id": "159.5ab80dfc61ea1388"
+            },
+            "4": {
+              "title": "Fisheries",
+              "id": "294.2a8037dba3801c82"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            },
+            "collapsed": true
+          }
+        },
+        "7": {
+          "title": "Industry",
+          "id": "90.2a8037dba3801c82",
+          "ideas": {
+            "1": {
+              "title": "Economic Activity",
+              "id": "425.753ba765da977f65",
+              "ideas": {
+                "2": {
+                  "title": "Gross Value Added Total http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "428.753ba765da977f65"
+                },
+                "12": {
+                  "title": "Agriculture, Forestry, and Fishing http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "426.753ba765da977f65"
+                },
+                "13": {
+                  "title": "Mining and Quarrying http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "429.753ba765da977f65"
+                },
+                "14": {
+                  "title": "Manufacturing http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "431.753ba765da977f65"
+                },
+                "15": {
+                  "title": "Electricity, Gas, and Water Supply http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "432.753ba765da977f65"
+                },
+                "16": {
+                  "title": "Wholesale and Retail Trade http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "433.753ba765da977f65"
+                },
+                "17": {
+                  "title": "Transport, Storage, and Communication http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "434.753ba765da977f65"
+                },
+                "18": {
+                  "title": "Financial Intermediation, Insurance, Real Estate, and Business Services http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "435.753ba765da977f65"
+                },
+                "19": {
+                  "title": "Community, Social, Personal, and Government Services http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_econ_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "436.753ba765da977f65"
+                }
+              }
+            },
+            "2": {
+              "title": "Employment per Sector",
+              "id": "427.753ba765da977f65",
+              "ideas": {
+                "1": {
+                  "title": "Agriculture, Forestry, and Fishing http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "437.753ba765da977f65"
+                },
+                "2": {
+                  "title": "Mining and Quarrying http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "438.753ba765da977f65"
+                },
+                "3": {
+                  "title": "Manufacturing http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "439.753ba765da977f65"
+                },
+                "4": {
+                  "title": "Electricity, Gas, and Water Supply http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "440.753ba765da977f65"
+                },
+                "5": {
+                  "title": "Wholesale and Retail Trade; Catering and Accommodation  http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "441.753ba765da977f65"
+                },
+                "6": {
+                  "title": "Transport, Storage, and Communication http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "442.753ba765da977f65",
+                  "ideas": {}
+                },
+                "7": {
+                  "title": "Financial, Insurance, Real Estate, and Business Services http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "444.753ba765da977f65"
+                },
+                "8": {
+                  "title": "Community, Social, Personal, and Government Services http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:meso_2010_emp_wgs84&styles=&bbox=16.45192000002853,-34.83416989569373,32.89253174669768,-22.12503000000106&width=512&height=395&srs=EPSG:4326&format=application/openlayers",
+                  "id": "445.753ba765da977f65"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            },
+            "position": [
+              74,
+              185,
+              2
+            ],
+            "collapsed": true
+          }
+        },
+        "4.5": {
+          "title": "Human lives and health",
+          "id": "31.5dfbc8ad9a705aa0",
+          "attr": {
+            "style": {
+              "background": "#33CCCC"
+            },
+            "collapsed": true
+          },
+          "ideas": {
+            "1": {
+              "title": "Epidemiology",
+              "id": "32.5dfbc8ad9a705aa0",
+              "ideas": {
+                "1": {
+                  "title": "Exposure",
+                  "id": "33.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "Age 0-4",
+                      "id": "208.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Age over 65",
+                      "id": "209.5ab80dfc61ea1388"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Number of disease cases",
+                  "id": "34.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "HIV/AIDS",
+                      "id": "220.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Influenza",
+                      "id": "224.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "TB",
+                      "id": "228.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Cholera",
+                      "id": "230.5ab80dfc61ea1388"
+                    },
+                    "5": {
+                      "title": "Typhoid",
+                      "id": "232.5ab80dfc61ea1388"
+                    },
+                    "6": {
+                      "title": "Malaria",
+                      "id": "237.5ab80dfc61ea1388"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Frequency of disease cases",
+                  "id": "35.5dfbc8ad9a705aa0"
+                },
+                "4": {
+                  "title": "Timing of disease",
+                  "id": "36.5dfbc8ad9a705aa0"
+                },
+                "5": {
+                  "title": "Severity of disease",
+                  "id": "37.5dfbc8ad9a705aa0"
+                }
+              }
+            },
+            "11": {
+              "title": "Demographic Data",
+              "id": "41.5dfbc8ad9a705aa0",
+              "ideas": {
+                "1": {
+                  "title": "Number of individuals per age category",
+                  "id": "42.5dfbc8ad9a705aa0",
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Male/female ration per age category",
+                  "id": "44.5dfbc8ad9a705aa0",
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Population Living in Poverty http://app01.saeon.ac.za:8086/geoserver/BEA/wms?service=WMS&version=1.1.0&request=GetMap&layers=BEA:Meso_pop_income_education&styles=&bbox=16.048264517997303,-34.88142258990623,33.49990298946927,-21.986354178195917&width=512&height=378&srs=EPSG:4326&format=application/openlayers",
+                  "id": "423.753ba765da977f65"
+                }
+              }
+            },
+            "21": {
+              "title": "Healthcare Access",
+              "id": "49.5dfbc8ad9a705aa0",
+              "ideas": {
+                "1": {
+                  "title": "Number of healthcare facilities",
+                  "id": "72.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "Clinics",
+                      "id": "243.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Pharmacies",
+                      "id": "245.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Dental ",
+                      "id": "248.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Vision",
+                      "id": "249.5ab80dfc61ea1388"
+                    },
+                    "5": {
+                      "title": "Hospitals",
+                      "id": "255.5ab80dfc61ea1388"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Proximity to healthcare facilities",
+                  "id": "73.5dfbc8ad9a705aa0",
+                  "ideas": {
+                    "1": {
+                      "title": "Clinics",
+                      "id": "252.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Pharmacies",
+                      "id": "253.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Hospitals",
+                      "id": "256.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Dental",
+                      "id": "257.5ab80dfc61ea1388"
+                    },
+                    "5": {
+                      "title": "Vision",
+                      "id": "258.5ab80dfc61ea1388"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Number of staff",
+                  "id": "74.5dfbc8ad9a705aa0"
+                },
+                "4": {
+                  "title": "Staff competency",
+                  "id": "75.5dfbc8ad9a705aa0"
+                },
+                "5": {
+                  "title": "Equipment status",
+                  "id": "76.5dfbc8ad9a705aa0"
+                },
+                "6": {
+                  "title": "Emergency services status",
+                  "id": "77.5dfbc8ad9a705aa0"
+                },
+                "7": {
+                  "title": "Healthcare facility status",
+                  "id": "260.5ab80dfc61ea1388"
+                },
+                "8": {
+                  "title": "Medical Stock",
+                  "id": "263.5ab80dfc61ea1388"
+                },
+                "9": {
+                  "title": "Access to Traditional Healers",
+                  "id": "267.5ab80dfc61ea1388"
+                },
+                "10": {
+                  "title": "Traditional Healer Competency",
+                  "id": "268.5ab80dfc61ea1388"
+                },
+                "11": {
+                  "title": "Access to Traditional medicine",
+                  "id": "271.5ab80dfc61ea1388"
+                },
+                "12": {
+                  "title": "Government Health subsidy",
+                  "id": "273.5ab80dfc61ea1388"
+                },
+                "13": {
+                  "title": "Personal healthcare provisions",
+                  "id": "275.5ab80dfc61ea1388"
+                },
+                "14": {
+                  "title": "Social Welfare grants",
+                  "id": "279.5ab80dfc61ea1388"
+                }
+              }
+            },
+            "51": {
+              "title": "Livelihoods",
+              "id": "53.5dfbc8ad9a705aa0",
+              "ideas": {
+                "1": {
+                  "title": "Financial",
+                  "id": "61.5dfbc8ad9a705aa0"
+                },
+                "2": {
+                  "title": "Economic security ",
+                  "id": "62.5dfbc8ad9a705aa0"
+                },
+                "3": {
+                  "title": "Education",
+                  "id": "63.5dfbc8ad9a705aa0"
+                }
+              }
+            },
+            "61": {
+              "title": "Quality of existence (SDG)",
+              "id": "55.5dfbc8ad9a705aa0",
+              "ideas": {
+                "1": {
+                  "title": "Time",
+                  "id": "56.5dfbc8ad9a705aa0"
+                },
+                "2": {
+                  "title": "Governance",
+                  "id": "57.5dfbc8ad9a705aa0"
+                },
+                "3": {
+                  "title": "Social networks",
+                  "id": "58.5dfbc8ad9a705aa0"
+                },
+                "4": {
+                  "title": "Personal security",
+                  "id": "59.5dfbc8ad9a705aa0"
+                }
+              }
+            },
+            "71": {
+              "title": "Sustenance",
+              "id": "286.5ab80dfc61ea1388",
+              "ideas": {
+                "1": {
+                  "title": "Food",
+                  "id": "288.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Access",
+                      "id": "289.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Cost",
+                      "id": "290.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Quality",
+                      "id": "291.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Demand",
+                      "id": "293.5ab80dfc61ea1388"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Water",
+                  "id": "295.5ab80dfc61ea1388",
+                  "ideas": {
+                    "1": {
+                      "title": "Access",
+                      "id": "296.5ab80dfc61ea1388"
+                    },
+                    "2": {
+                      "title": "Cost",
+                      "id": "297.5ab80dfc61ea1388"
+                    },
+                    "3": {
+                      "title": "Quality",
+                      "id": "298.5ab80dfc61ea1388"
+                    },
+                    "4": {
+                      "title": "Demand",
+                      "id": "299.5ab80dfc61ea1388"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  111,
+                  520,
+                  1
+                ]
+              }
+            },
+            "81": {
+              "title": "Population",
+              "id": "300.5ab80dfc61ea1388",
+              "attr": {
+                "position": [
+                  139.5,
+                  681,
+                  2
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Number of individuals per age category",
+                  "id": "301.5ab80dfc61ea1388"
+                },
+                "2": {
+                  "title": "Male/Female ratio per  age category",
+                  "id": "302.5ab80dfc61ea1388"
+                },
+                "3": {
+                  "title": "Birth rate per age categry",
+                  "id": "303.5ab80dfc61ea1388"
+                },
+                "4": {
+                  "title": "Death rate per age category",
+                  "id": "304.5ab80dfc61ea1388"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "fontMultiplier": 1.25,
+          "background": "#333399"
+        },
+        "position": [
+          -861,
+          -1169,
+          1
+        ]
+      }
+    },
+    "6": {
+      "title": "Cold spell",
+      "id": "357.753ba765da977f65",
+      "attr": {
+        "position": [
+          -107,
+          -1424,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "7": {
+      "title": "Heatwave",
+      "id": "358.753ba765da977f65",
+      "attr": {
+        "position": [
+          -103,
+          -991,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "8": {
+      "title": "Flood",
+      "id": "359.753ba765da977f65",
+      "attr": {
+        "position": [
+          -101,
+          -1044,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "9": {
+      "title": "Fire- urban",
+      "id": "360.753ba765da977f65",
+      "attr": {
+        "position": [
+          -104,
+          -1092,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      },
+      "ideas": {}
+    },
+    "10": {
+      "title": "Drought- meterological",
+      "id": "361.753ba765da977f65",
+      "attr": {
+        "position": [
+          -114,
+          -1198,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "11": {
+      "title": "Fire- bush",
+      "id": "362.753ba765da977f65",
+      "attr": {
+        "position": [
+          -104,
+          -1096,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      },
+      "ideas": {}
+    },
+    "12": {
+      "title": "Drought- Agricultural",
+      "id": "364.753ba765da977f65",
+      "attr": {
+        "position": [
+          -108,
+          -1358,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "13": {
+      "title": "Drought- Ecological",
+      "id": "365.753ba765da977f65",
+      "attr": {
+        "position": [
+          -110,
+          -1399,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "14": {
+      "title": "Drought- Hydrological",
+      "id": "366.753ba765da977f65",
+      "attr": {
+        "position": [
+          -106,
+          -1167,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "15": {
+      "title": "Drought- socioeconomic",
+      "id": "367.753ba765da977f65",
+      "attr": {
+        "position": [
+          -111,
+          -1216,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "16": {
+      "title": "Landslide",
+      "id": "368.753ba765da977f65",
+      "attr": {
+        "position": [
+          -102,
+          -947,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "17": {
+      "title": "Tsunami",
+      "id": "369.753ba765da977f65",
+      "attr": {
+        "position": [
+          -104,
+          -897,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "18": {
+      "title": "Earthquake",
+      "id": "370.753ba765da977f65",
+      "attr": {
+        "position": [
+          -99,
+          -1121,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "19": {
+      "title": "Hazard",
+      "id": "573.9544e2ad4a4b10e",
+      "attr": {
+        "position": [
+          -241,
+          -1806,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "20": {
+      "title": "Stock sector",
+      "id": "574.9544e2ad4a4b10e",
+      "attr": {
+        "position": [
+          -346,
+          -1811,
+          1
+        ],
+        "style": {
+          "background": "#33CCCC"
+        }
+      }
+    },
+    "21": {
+      "title": "Driver Sector",
+      "id": "575.9544e2ad4a4b10e",
+      "attr": {
+        "position": [
+          -456,
+          -1808,
+          1
+        ],
+        "style": {
+          "background": "#99CC00"
+        }
+      }
+    },
+    "22": {
+      "title": "Duplicated Dataset",
+      "id": "576.9544e2ad4a4b10e",
+      "attr": {
+        "position": [
+          -325,
+          -1730,
+          1
+        ],
+        "style": {
+          "background": "#FFFF00"
+        }
+      }
+    },
+    "23": {
+      "title": "Obsolete dataset",
+      "id": "577.9544e2ad4a4b10e",
+      "attr": {
+        "position": [
+          -456,
+          -1727,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    }
+  },
+  "title": "Drivers",
+  "links": [
+    {
+      "ideaIdFrom": "153.5182b17d3c9f5b4b",
+      "ideaIdTo": "357.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "152.5182b17d3c9f5b4b",
+      "ideaIdTo": "358.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "155.5182b17d3c9f5b4b",
+      "ideaIdTo": "358.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "157.5182b17d3c9f5b4b",
+      "ideaIdTo": "357.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "175.5182b17d3c9f5b4b",
+      "ideaIdTo": "359.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "184.5182b17d3c9f5b4b",
+      "ideaIdTo": "359.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "185.5182b17d3c9f5b4b",
+      "ideaIdTo": "359.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "188.5182b17d3c9f5b4b",
+      "ideaIdTo": "360.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "190.5182b17d3c9f5b4b",
+      "ideaIdTo": "360.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "194.5182b17d3c9f5b4b",
+      "ideaIdTo": "360.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "192.5182b17d3c9f5b4b",
+      "ideaIdTo": "360.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "270.5182b17d3c9f5b4b",
+      "ideaIdTo": "358.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "188.5182b17d3c9f5b4b",
+      "ideaIdTo": "362.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "190.5182b17d3c9f5b4b",
+      "ideaIdTo": "362.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "192.5182b17d3c9f5b4b",
+      "ideaIdTo": "362.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "194.5182b17d3c9f5b4b",
+      "ideaIdTo": "362.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "319.2a8037dba3801c82",
+      "ideaIdTo": "364.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "319.2a8037dba3801c82",
+      "ideaIdTo": "367.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "319.2a8037dba3801c82",
+      "ideaIdTo": "366.753ba765da977f65",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    }
+  ]
+}

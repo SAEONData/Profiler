@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Test frame</title>
+    <script type="text/javascript">
+        function resizeIFrame(cy) {
+            var frame = window.frames['myframe'];
+            frame.style.height = cy + 'px';
+        }
+    </script>
+</head>
+<body>
+    Frame start
+    <br />
+    <iframe id="myframe" src="testframe.html" style="width: 100%; height: 600px; border: 1px solid red;"></iframe>
+    <br />
+    Frame end
+</body>
+</html>

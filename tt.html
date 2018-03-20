@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<!doctype html public "-//w3c//dtd xhtml 1.0 strict//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
+<html>
+    <head>
+        <style>
+            .removed
+            {
+                display:none;
+            }
+
+            .expands
+            {
+                cursor:pointer; cursor:hand;
+            }
+
+            .child1 td:first-child
+            {
+                padding-left: 1em;
+            }
+
+            .child2 td:first-child
+            {
+                padding-left: 2em;
+            }
+        </style>
+        <script>
+            function toggle() {
+                for (var i = 0; i < arguments.length; i++) {
+                    with (document.getElementById(arguments[i])) {
+                        if (className.indexOf('removed') > -1) {
+                            className = className.replace('removed');
+                        }
+                        else {
+                            className += ' removed';
+                        }
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+    <table>
+        <thead>
+            <tr>
+                <th>Person</th>
+                <th>Prop 1</th>
+                <th>Prop 2</th>
+                <th>Prop 3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="p1" class="expands" onclick="toggle('p2','p3')">
+                <td>P1</td>
+                <td>a</td>
+                <td>b</td>
+                <td>c</td>
+            </tr>
+            <tr id="p2" class="removed child1">
+                <td>P2</td>
+                <td>a</td>
+                <td>b</td>
+                <td>c</td>
+            </tr>
+            <tr id="p3" class="removed child2">
+                <td>P3</td>
+                <td>a</td>
+                <td>b</td>
+                <td>c</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Totals:</td>
+                <td>x</td>
+                <td>y</td>
+                <td>z</td>
+            </tr>
+        </tfoot>
+    </table>
+    </body>
+</html>

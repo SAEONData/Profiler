@@ -1,0 +1,520 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "31": {
+      "title": "Pressure",
+      "id": "487.6f6e87c496bfd40",
+      "attr": {
+        "position": [
+          -22.66668701171875,
+          -759.3333129882812,
+          1
+        ]
+      },
+      "ideas": {
+        "-10": {
+          "title": "Climate",
+          "id": "488.6f6e87c496bfd40",
+          "ideas": {
+            "1": {
+              "title": "Rainfall",
+              "id": "489.6f6e87c496bfd40",
+              "ideas": {
+                "1": {
+                  "title": "NDWI",
+                  "id": "558.6f6e87c496bfd40",
+                  "ideas": {},
+                  "attr": {
+                    "position": [
+                      126.14445020312323,
+                      3.264757747070803,
+                      1
+                    ]
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  144.5586187500018,
+                  -14.882812500000455,
+                  2
+                ]
+              }
+            },
+            "0.5": {
+              "title": "Temperature",
+              "id": "490.6f6e87c496bfd40",
+              "ideas": {
+                "1": {
+                  "title": "Extreme Temperature",
+                  "id": "610.7a2620200b45d848",
+                  "attr": {
+                    "note": {
+                      "index": 4,
+                      "text": "Heat Waves Per Year Maximum Temperature > 30C On 3 Or More Consecutive Days \nLink- http://www.sasdi.net/metaview.aspx?uuid=e33c9448e27b0221ed1993e5946385cc \nServer- 8082\n{\"title\": \"Heat Waves Per Year Maximum Temperature > 30C On 3 Or More Consecutive Days\",\n\"style\":\"_grid:heatwaves1c\",\n\"colourmap\": \n[\n{\"\":\"#FFFFFF\"},\n{\"> 2\":\"#FFFFC4\"},\n{\"2-4\":\"#FFFF00\"},\n{\"4-6\":\"#FFD2D2\"},\n{\"6-8\":\"#FCDBB6\"},\n{\"8-10\":\"#FF8204\"},\n{\"10-12\":\"#F83E07\"},\n{\"12-14\":\"#FFBBBB\"},\n{\"14-16\":\"#FF6464\"},\n{\"16-18\":\"#FF0000\"},\n{\"18 <\":\"#820000\"}\n]\n}"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  81.88710996093755,
+                  -130.52427673339844,
+                  1
+                ]
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              123.989501953125,
+              -112.53126525878906,
+              5
+            ]
+          }
+        },
+        "-17.5": {
+          "title": "Hazardous Events",
+          "id": "629.3958592459d8fccc",
+          "ideas": {
+            "1": {
+              "title": "Fire",
+              "id": "625.62bfa10f215a23af",
+              "attr": {
+                "style": {
+                  "width": 64.6354
+                },
+                "position": [
+                  224.711667984375,
+                  -7.5347137451171875,
+                  1
+                ]
+              },
+              "ideas": {}
+            }
+          }
+        },
+        "-18.75": {
+          "title": "Habitat Change",
+          "id": "630.3958592459d8fccc",
+          "ideas": {
+            "1": {
+              "title": "Biome Shift",
+              "id": "622.62bfa10f215a23af",
+              "ideas": {},
+              "attr": {
+                "note": {
+                  "index": 8,
+                  "text": "{\"title\": \"Modelled Biome Shifts - 1990-2100\",\n\"style\":\"\",\n\"colourmap\": \n[\n{\"1-3\": \"Woodland -> C3 Savanna\"},\n{\"1-6\": \"Woodland -> Forest\"},\n{\"2-1\": \"C4 Savanna -> Woodland\"},\n{\"2-3\": \"C4 Savanna -> C3 Savanna\"},\n{\"2-4\": \"C4 Savanna -> C4 Grassland\"},\n{\"2-5\": \"C4 Savanna -> C3 Grassland\"},\n{\"2-6\": \"C4 Savanna -> Forest\"},\n{\"3-6\": \"C3 Savanna -> Forest\"},\n{\"4-1\": \"C4 Grassland -> Woodland\"},\n{\"4-2\": \"C4 Grassland -> C4 Savanna\"},\n{\"4-3\": \"C4 Grassland -> C3 Savanna\"},\n{\"4-5\": \"C4 Grassland -> C3 Grassland\"},\n{\"4-6\": \"C4 Grassland -> Forest\"},\n{\"4-7\": \"C4 Grassland -> Desert\"},\n{\"5-1\": \"C3 Grassland -> Woodland\"},\n{\"5-3\": \"C3 Grassland -> C3 Savanna\"},\n{\"5-4\": \"C3 Grassland -> C4 Grassland\"},\n{\"5-7\": \"C3 Grassland -> Desert\"},\n{\"6-1\": \"Forest -> Woodland\"},\n{\"6-3\": \"Forest -> C3 Savanna\"},\n{\"6-7\": \"Forest -> Desert\"},\n{\"7-3\": \"Desert -> C3 Savanna\"},\n{\"7-4\": \"Desert -> C4 Grassland\"},\n{\"7-5\": \"Desert -> C3 Grassland\"}\n]\n}"
+                },
+                "position": [
+                  214.9200939609375,
+                  51.44792175292969,
+                  1
+                ]
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              94.9998779296875,
+              69.46525573730469,
+              4
+            ]
+          }
+        }
+      }
+    },
+    "32": {
+      "title": "Stocks",
+      "id": "505.6f6e87c496bfd40",
+      "attr": {
+        "position": [
+          -1329.333333015442,
+          -768,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "People",
+          "ideas": {
+            "1": {
+              "title": "Poverty Index",
+              "id": "616.62bfa10f215a23af",
+              "attr": {
+                "position": [
+                  143.32421875000136,
+                  10.181442260742642,
+                  1
+                ],
+                "note": {
+                  "index": 12,
+                  "text": "Population Living in Poverty\nLink- http://www.sasdi.net/metaview.aspx?uuid=6fab3f1cb219722e76bf3c2ac9c90443 Server- 8086\n{\"title\": \"Population Living in Poverty\",\n\"application\": \"This is the application\",\n\"style\":\"Meso_pop_income_education\",\n\"aggregation\":\"sum\",\n\"colourmap\": \n[\n{\"0 - 2\":\"#f7fbff,1\"},\n{\"2 - 12\":\"#c7dcef,7\"},\n{\"12 - 48\":\"72b2d7,30\"},\n{\"48 - 268\":\"#2878b8,160\"},\n{\"268 - 341935\":\"#08306b,150000\"}\n]\n}"
+				  "abcd": ""
+                }
+              }
+            }
+          },
+          "id": "564.6f6e87c496bfd40",
+          "attr": {
+            "position": [
+              285.67578124999864,
+              -258.50781250000045,
+              1
+            ],
+            "style": {
+              "width": 50
+            }
+          }
+        },
+        "2": {
+          "title": "Industry",
+          "id": "527.6f6e87c496bfd40",
+          "ideas": {
+            "1": {
+              "title": "Commercial Forestry",
+              "id": "628.62bfa10f215a23af",
+              "attr": {
+                "position": [
+                  318,
+                  -2,
+                  1
+                ],
+                "note": {
+                  "index": 26,
+                  "text": "Link-\nhttp://www.sasdi.net/metaview.aspx?uuid=86a36bba540850d3feb2814dc6096c74\nServer- 8086\n{\"title\": \"Commercial Forests in South Africa\",\n\"style\":\"Commercial_PlantationsSA\",\n\"colourmap\": \n[\n{\"\":\"#ed32c4\"}\n]\n}"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              75.33331298828125,
+              154.33331298828125,
+              3
+            ]
+          }
+        },
+        "1.5": {
+          "title": "Agriculture",
+          "ideas": {
+            "1": {
+              "title": "Typology",
+              "ideas": {
+                "1": {
+                  "title": "Subsistence",
+                  "id": "579.6f6e87c496bfd40",
+                  "attr": {
+                    "position": [
+                      180,
+                      -90.00692749023438,
+                      3
+                    ],
+                    "note": {
+                      "index": 15,
+                      "text": "Field Boundaries\nLink- http://www.sasdi.net/metaview.aspx?uuid=9211e4f41167ef04cc75bb43e7ddfc01\nServer- 8086\n{\"title\": \"Field Crop Boundaries\",\n\"style\":\"FieldCrop\",\n\"colourmap\": \n[\n{\"Annual Crop Cultivation / Planted Pastures Rotation\":\"#9b1f1d\"},\n{\"Horticulture / Viticulture\":\"#4dc489\"},\n{\"Old Fields\":\"#f16d3d\"},\n{\"Pivot Irrigation\":\"#7bae65\"},\n{\"Shadenet\":\"#5a8de5\"},\n{\"Small Holdings\":\"#8a842f\"},\n{\"Strip Field Cultivation\":\"#e268f2\"},\n{\"Subsistence Farming\":\"#324983\"},\n{\"Subsistence Farming 1\":\"#4e8d6a\"},\n{\"Subsistence Farming 2\":\"#f56e3c\"},\n{\"Tea Plantations\":\"#888132\"}\n]\n}"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Commercial",
+                  "id": "580.6f6e87c496bfd40",
+                  "ideas": {
+                    "1": {
+                      "title": "Irrigated",
+                      "id": "608.7a2620200b45d848",
+                      "ideas": {},
+                      "attr": {
+                        "note": {
+                          "index": 17,
+                          "text": "Field Boundaries\nLink- http://www.sasdi.net/metaview.aspx?uuid=9211e4f41167ef04cc75bb43e7ddfc01\nServer- 8086\n{\"title\": \"Field Crop Boundaries\",\n\"style\":\"FieldCrop\",\n\"colourmap\": \n[\n{\"Annual Crop Cultivation / Planted Pastures Rotation\":\"#9b1f1d\"},\n{\"Horticulture / Viticulture\":\"#4dc489\"},\n{\"Old Fields\":\"#f16d3d\"},\n{\"Pivot Irrigation\":\"#7bae65\"},\n{\"Shadenet\":\"#5a8de5\"},\n{\"Small Holdings\":\"#8a842f\"},\n{\"Strip Field Cultivation\":\"#e268f2\"},\n{\"Subsistence Farming\":\"#324983\"},\n{\"Subsistence Farming 1\":\"#4e8d6a\"},\n{\"Subsistence Farming 2\":\"#f56e3c\"},\n{\"Tea Plantations\":\"#888132\"}\n]\n}"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Dryland",
+                      "id": "614.1181d6ca836a865d",
+                      "attr": {
+                        "note": {
+                          "index": 18,
+                          "text": "Field Boundaries\nLink- http://www.sasdi.net/metaview.aspx?uuid=9211e4f41167ef04cc75bb43e7ddfc01\nServer- 8086\n{\"title\": \"Field Crop Boundaries\",\n\"style\":\"FieldCrop\",\n\"colourmap\": \n[\n{\"Annual Crop Cultivation / Planted Pastures Rotation\":\"#9b1f1d\"},\n{\"Horticulture / Viticulture\":\"#4dc489\"},\n{\"Old Fields\":\"#f16d3d\"},\n{\"Pivot Irrigation\":\"#7bae65\"},\n{\"Shadenet\":\"#5a8de5\"},\n{\"Small Holdings\":\"#8a842f\"},\n{\"Strip Field Cultivation\":\"#e268f2\"},\n{\"Subsistence Farming\":\"#324983\"},\n{\"Subsistence Farming 1\":\"#4e8d6a\"},\n{\"Subsistence Farming 2\":\"#f56e3c\"},\n{\"Tea Plantations\":\"#888132\"}\n]\n}"
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Agricultural GVA",
+                      "id": "627.62bfa10f215a23af",
+                      "attr": {
+                        "note": {
+                          "index": 19,
+                          "text": "Agricultural GVA\nLink- http://www.sasdi.net/metaview.aspx?uuid=70898b01df2ceca2172aee8195779ff3\nServer- 8086\nTitle-  GVA- Agriculture, Forestry and Fisheries\nStyle name- meso_2010_econ_wgs84"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "id": "578.6f6e87c496bfd40",
+              "attr": {
+                "position": [
+                  150.01043701171875,
+                  -12.309005737304688,
+                  1
+                ]
+              }
+            }
+          },
+          "id": "577.6f6e87c496bfd40"
+        },
+        "1.75": {
+          "title": "Ecosystems",
+          "id": "548.6f6e87c496bfd40",
+          "ideas": {
+            "1": {
+              "title": "Vulnerable Ecosystems",
+              "id": "617.62bfa10f215a23af",
+              "attr": {
+                "position": [
+                  207,
+                  -7,
+                  1
+                ],
+                "note": {
+                  "index": 24,
+                  "text": "Vulnerable Ecosystems \nLink- http://metadata.sanbi.org/geonetwork/srv/eng/catalog.search#/metadata/de7e049f-9d02-4a75-9268-a43af24619a6\nTitle- National Biodiversity Assessment (NBA) Ecosystem Threat Status (Vegmap_with_threatened_ecosystems)"
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              186,
+              105.66668701171875,
+              2
+            ]
+          }
+        }
+      }
+    },
+    "35": {
+      "title": "Agricultural  Drought",
+      "id": "601.6f6e87c496bfd40",
+      "attr": {
+        "position": [
+          -627,
+          -930,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        }
+      },
+      "ideas": {}
+    },
+    "39": {
+      "title": "Heatwave",
+      "id": "611.7a2620200b45d848",
+      "attr": {
+        "position": [
+          -621.7708129882812,
+          -1062.652781009674,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        },
+        "note": {
+          "index": 28,
+          "text": "I have moved this to 'Extreme Temperature' - for reasons of consistency in our data model. - Wim"
+        }
+      }
+    },
+    "40": {
+      "title": "Biome Change/Shift",
+      "id": "618.62bfa10f215a23af",
+      "attr": {
+        "position": [
+          -649.6666870117188,
+          -620.6666870117188,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    },
+    "41": {
+      "title": "Fire Events",
+      "id": "626.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "background": "#FF0000"
+        },
+        "position": [
+          -612,
+          -765,
+          1
+        ]
+      }
+    }
+  },
+  "title": "Pressure",
+  "links": [
+    {
+      "ideaIdFrom": "610.7a2620200b45d848",
+      "ideaIdTo": "611.7a2620200b45d848",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "558.6f6e87c496bfd40",
+      "ideaIdTo": "601.6f6e87c496bfd40",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "601.6f6e87c496bfd40",
+      "ideaIdTo": "579.6f6e87c496bfd40",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "601.6f6e87c496bfd40",
+      "ideaIdTo": "608.7a2620200b45d848",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "601.6f6e87c496bfd40",
+      "ideaIdTo": "614.1181d6ca836a865d",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "622.62bfa10f215a23af",
+      "ideaIdTo": "618.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "618.62bfa10f215a23af",
+      "ideaIdTo": "617.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "626.62bfa10f215a23af",
+      "ideaIdTo": "579.6f6e87c496bfd40",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "626.62bfa10f215a23af",
+      "ideaIdTo": "616.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "626.62bfa10f215a23af",
+      "ideaIdTo": "617.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "626.62bfa10f215a23af",
+      "ideaIdTo": "627.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "626.62bfa10f215a23af",
+      "ideaIdTo": "628.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "from"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "616.62bfa10f215a23af",
+      "ideaIdTo": "611.7a2620200b45d848",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "625.62bfa10f215a23af",
+      "ideaIdTo": "626.62bfa10f215a23af",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    }
+  ]
+}
