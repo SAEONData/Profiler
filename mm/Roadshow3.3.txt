@@ -1,0 +1,1036 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Drivers",
+      "id": 1,
+      "ideas": {
+        "-1": {
+          "title": "Climate",
+          "ideas": {
+            "1": {
+              "title": "Temperature",
+              "attr": {
+                "position": [
+                  81.88710996093755,
+                  -130.52427673339844,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Extreme Temperature",
+                  "attr": {
+                    "note": {
+                      "index": 4,
+                      "text": "## Extreme Temperature\n\nhttp://www.sasdi.net/metaview.aspx?uuid=e33c9448e27b0221ed1993e5946385cc \n\n{\n    \"title\": \"Areas Exposed to Extreme Temperature -  > 30C On 3 Or More Consecutive Days\",\n    \"application\": \"The dataset areas exposed to 3 consecutive days of extreme temperature in an area per year from 1950 to 1999. Such events are generally large high pressure circulating systems that can last for several days to weeks.\",                                               \n    \"style\": \"heatwaves\",\n    \"role\": \"exposure\",\n    \"aggregation\": \"sum\",\n    \"colourmap\":\n        [\n        {\"\":\"#FFFFFF\"},\n        {\"True\":\"#820000\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Human Health\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Weather and Climate\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Extreme Weather\"]\n        \t}\n        ]\n}"
+                    },
+                    "style": {
+                      "background": "#00CCFF"
+                    }
+                  },
+                  "id": "45.316789d55595123"
+                }
+              },
+              "id": "44.316789d55595123"
+            },
+            "2": {
+              "title": "Rainfall",
+              "attr": {
+                "position": [
+                  144.5586187500018,
+                  -14.882812500000455,
+                  2
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Drought",
+                  "attr": {
+                    "position": [
+                      123.43784121093569,
+                      -26.124145507812045,
+                      1
+                    ],
+                    "style": {
+                      "background": "#00CCFF"
+                    },
+                    "note": {
+                      "index": 6,
+                      "text": "## Drought Index\n\nhttp://www.sasdi.net/metaview.aspx?uuid=d10178001520b38b55abee3032c137e3 \n\n{\n    \"title\": \"Drought Index\",\n    \"application\": \"NDWI is a measure of the leaf water content and so can be used as a proxy indicator for drought, as areas that are experiencing water shortages will have plants that are experiencing water stress from low to extreme water stress. This data was collected using the 20m resolution data from the sentinel 2 satellites. Data was collected in 2018. \",                                               \n    \"style\": \"No Style\",\n    \"colourmap\":\n        [\n       \t\t{\"Extreme Water Stress\": \"#F5DEB3\"},\n\t\t{\"High Water Stress\": \"#FFB90F\"},\n\t\t{\"Medium Water Stress\": \"#CD950C\"},\n\t\t{\"Low Water Stress\": \"#8B6508\"}\n\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Agriculture\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [\"Weather and Climate\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Climate\"]\n        \t}\n        ]\n}"
+                    }
+                  },
+                  "ideas": {},
+                  "id": "47.316789d55595123"
+                }
+              },
+              "id": "46.316789d55595123"
+            },
+            "3": {
+              "title": "Geophysical",
+              "ideas": {
+                "1": {
+                  "title": "Fire",
+                  "attr": {
+                    "style": {
+                      "width": 64.6354,
+                      "background": "#00CCFF"
+                    },
+                    "note": {
+                      "index": 8,
+                      "text": "## Fire Frequency\n\nhttp://www.sasdi.net/metaview.aspx?uuid=1212d39a7cc96a9d3577aa66bd029643\n\n{\n    \"title\": \"Fire Frequency (2000 - 2016)\",\n    \"application\": \"The data are a summation of the fire events in an area from 2000-2016 based on satellite identification of fires from that timeframe. \",                                               \n    \"style\": \"fire_freq\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 5\": \"#4495c4\"},\n\t\t{\"More than 5 occurrences\": \"#ec2e0b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Agriculture\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [\"Weather and Climate\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Climate\"]\n        \t}\n        ]\n}"
+                    }
+                  },
+                  "ideas": {},
+                  "id": "49.316789d55595123"
+                },
+                "2": {
+                  "title": "Lightning",
+                  "id": "78.316789d55595123",
+                  "attr": {
+                    "style": {
+                      "background": "#800080"
+                    },
+                    "note": {
+                      "index": 9,
+                      "text": "## Lightning Ground-Flash Density (1994)\n\nhttp://www.sasdi.net/metaview.aspx?uuid=88b286987e1266e4b6c2bc8729a461a4\n\n{\n\t\"title\": \"Lightning Ground-Flash Density (1994)\",\n\t\"application\": \"The dataset is lightning ground-flash density, or the number of lightning strikes in an area. At the time this data was collated (2006), the insurance industry was paying out approximately R500 million annually in South Africa for lightning damage. Lightning also claimed 1.5 lives per million in urban areas and 8.8 lives per million in rural areas annually. The data was collected in 1994, more current data will be displayed when it is made available.\",                                               \n\t\"style\":\"beeh_lightning\",\n\t\"colourmap\":\n\t[\n\t\t{\"0-1\":\"#f9ffdc\"},\n\t\t{\"1-2\":\"#d4fff0\"},\n\t\t{\"2-3\":\"#95ecff\"},\n\t\t{\"3-4\":\"#aaff7f\"},\n\t\t{\"4-5\":\"#a4ff4f\"},\n\t\t{\"5-6\":\"#77ff23\"},\n\t\t{\"6-7\":\"#c5f125\"},\n\t\t{\"7-8\":\"#dbdb00\"},\n\t\t{\"8-9\":\"#e4e400\"},\n\t\t{\"9-10\":\"#ff7615\"},\n\t\t{\"10-12\":\"#ff0000\"},\n\t\t{\"12-14\":\"#8d00d4\"}\n\t],\n    \t\"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Human Health\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Weather and Climate\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Extreme Weather\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                }
+              },
+              "id": "48.316789d55595123"
+            }
+          },
+          "id": "43.316789d55595123",
+          "attr": {
+            "position": [
+              292.5,
+              -60.56250715255737,
+              2
+            ]
+          }
+        },
+        "-11": {
+          "title": "Biological",
+          "ideas": {
+            "1": {
+              "title": "Biome Shift",
+              "attr": {
+                "note": {
+                  "index": 8,
+                  "text": "## Biome Change\n\nhttp://www.sasdi.net/metaview.aspx?uuid=631447d89db0d4688bbf5e5f8a6aaa36\n\n{\n    \"title\": \"Modelled Biome Shifts - 1990-2100\",\n    \"application\": \"The dataset depicts the predicted shift in biome distribution from 1990 to 2100 due to climate change using a dynamic vegetation model designed for tropical and subtropical African ecosystems.\",                                               \n    \"style\": \"biome_shifts\",\n    \"colourmap\":\n        [\n       \t\t{\"Woodland -> C3 Savanna\": \"#a4d166\"},\n\t\t{\"Woodland -> Forest\": \"#8bebad\"},\n\t\t{\"C4 Savanna -> Woodland\": \"#1822dd\"},\n\t\t{\"C4 Savanna -> C3 Savanna\": \"#a83ddd\"},\n\t\t{\"C4 Savanna -> C4 Grassland\": \"#55b0d0\"},\n\t\t{\"C4 Savanna -> C3 Grassland\": \"#2ecacf\"},\n\t\t{\"C4 Savanna -> Forest\": \"#c87151\"},\n\t\t{\"C3 Savanna -> Forest\": \"#c748d5\"},\n\t\t{\"C4 Grassland -> Woodland\": \"#f09590\"},\n\t\t{\"C4 Grassland -> C4 Savanna\": \"#3f1ae3\"},\n\t\t{\"C4 Grassland -> C3 Savanna\": \"#6bdb5d\"},\n\t\t{\"C4 Grassland -> C3 Grassland\": \"#69c835\"},\n\t\t{\"C4 Grassland -> Forest\": \"#c1e13e\"},\n\t\t{\"C4 Grassland -> Desert\": \"#d0409e\"},\n\t\t{\"C3 Grassland -> Woodland\": \"#7316ed\"},\n\t\t{\"C3 Grassland -> C3 Savanna\": \"#d07586\"},\n\t\t{\"C3 Grassland -> C4 Grassland\": \"#0edfb5\"},\n\t\t{\"C3 Grassland -> Desert\": \"#c90c5b\"},\n\t\t{\"Forest -> Woodland\": \"#ecba2e\"},\n\t\t{\"Forest -> C3 Savanna\": \"#7de7b9\"},\n\t\t{\"Forest -> Desert\": \"#daaa7a\"},\n\t\t{\"Desert -> C3 Savanna\": \"#ec6dde\"},\n\t\t{\"Desert -> C4 Grassland\": \"#e0dd87\"},\n\t\t{\"Desert -> C3 Grassland\": \"#3d89d4\"}\n \t\n\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Agriculture\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Industry\"]\n        \t}\n        ]\n}"
+                },
+                "position": [
+                  214.9200939609375,
+                  51.44792175292969,
+                  1
+                ],
+                "style": {
+                  "background": "#00CCFF"
+                }
+              },
+              "ideas": {},
+              "id": "51.316789d55595123"
+            }
+          },
+          "id": "50.316789d55595123",
+          "attr": {
+            "position": [
+              99.31939697265625,
+              145.0277862548828,
+              1
+            ]
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          356,
+          -402.7534637451172,
+          1
+        ],
+        "style": {
+          "width": 111.285
+        }
+      }
+    },
+    "2": {
+      "title": "Example Data",
+      "id": "106.316789d55595123",
+      "attr": {
+        "position": [
+          -171,
+          -877,
+          1
+        ],
+        "style": {
+          "background": "#00CCFF"
+        }
+      }
+    },
+    "3": {
+      "title": "Easy Toolkit Data",
+      "id": "107.316789d55595123",
+      "attr": {
+        "position": [
+          -25,
+          -886,
+          1
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "4": {
+      "title": "Nice to Have Data",
+      "id": "108.316789d55595123",
+      "attr": {
+        "position": [
+          -343,
+          -883,
+          1
+        ],
+        "style": {
+          "background": "#008000"
+        }
+      }
+    },
+    "5": {
+      "title": "Stocks",
+      "id": "116.2fbb9d6680a43fe1",
+      "attr": {
+        "position": [
+          -778.9965209960938,
+          -349.18747758865356,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Human Lives and Health",
+          "id": "113.31922cba117f462a",
+          "ideas": {
+            "2": {
+              "title": "Demography",
+              "ideas": {
+                "8": {
+                  "title": "Informal sector",
+                  "id": "77.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 33,
+                      "text": "## Percentage of the Workforce Employed in the Informal Sector\n\nhttp://www.sasdi.net/metaview.aspx?uuid=413ca97c0cb2dc5bd75abc43973ce249\n\n{\n    \"title\": \"Percentage of the Workforce Employed in the Informal Sector\",\n    \"application\": \"The data represent the percentage of the workforce employed in the informal sector in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"emp_informal\",\n    \"role\": \"susceptibility\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "9": {
+                  "title": "Poverty",
+                  "attr": {
+                    "note": {
+                      "index": 12,
+                      "text": "## Population Living in Poverty\n\nhttp://www.sasdi.net/metaview.aspx?uuid=893fecc433b5c8cbef3410ef96a4802f\n\n{\n    \"title\": \"Population Living in Poverty\",\n    \"application\": \"The data show the total number of people with an income below the upper bound poverty line (R992 per person per month (pppm)) within an area. The data was collected in 2011.\",                                               \n    \"style\": \"Meso_pop_income_education\",\n    \"aggregation\": \"sum\",\n    \"colourmap\":\n        [\n            {\"0 - 2\":\"#f7fbff,1\"},\n            {\"2 - 12\":\"#c7dcef,7\"},\n            {\"12 - 48\":\"72b2d7,30\"},\n            {\"48 - 268\":\"#2878b8,160\"},\n            {\"268 - 341935\":\"#08306b,150000\"}\n        ],\n    \"filters\":\n        [\n            {\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            },\n            {\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [\"Socio-economic\"]\n            },\n\t    {\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Livelihoods\"]\n            }\n        ]\n}"
+                    },
+                    "style": {
+                      "background": "#00CCFF"
+                    }
+                  },
+                  "id": "54.316789d55595123"
+                },
+                "10": {
+                  "title": "Age: 60-80 (Elderly)",
+                  "id": "125.31922cba117f462a",
+                  "attr": {
+                    "note": {
+                      "index": 35,
+                      "text": "## Percentage of Population by Age Group: 66-80 Elderly\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 66-80 Elderly\",\n    \"application\": \"The data represent the elderly population segment (age 66-80 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_60_80\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "11": {
+                  "title": "Age: 51-65 (Working)",
+                  "id": "126.31922cba117f462a",
+                  "attr": {
+                    "note": {
+                      "index": 36,
+                      "text": "## Percentage of Population by Age Group: 51-65 Working Population\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 51-65 Working Population\",\n    \"application\": \"The data represent the third working population segment (age 51-65 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_51_65\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "12": {
+                  "title": "Age: 31-50 (Working)",
+                  "id": "127.31922cba117f462a",
+                  "attr": {
+                    "note": {
+                      "index": 37,
+                      "text": "## Percentage of Population by Age Group: 31-50 Working Population\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 31-50 Working Population\",\n    \"application\": \"The data represent the second working population segment (age 31-50 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_31_50\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "13": {
+                  "title": "Age: 19-30 (Working)",
+                  "id": "128.31922cba117f462a",
+                  "attr": {
+                    "note": {
+                      "index": 38,
+                      "text": "## Percentage of Population by Age Group: 19-30 Working Population\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 19-30 Working Population\",\n    \"application\": \"The data represent the first working population segment (age 19-30 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_19_30\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "14": {
+                  "title": "Age: 6-18 (School)",
+                  "id": "130.31922cba117f462a",
+                  "attr": {
+                    "note": {
+                      "index": 39,
+                      "text": "## Percentage of Population by Age Group: 6-18 School-going\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 6-18 School-going\",\n    \"application\": \"The data represent the school-going population segment (age 6-18 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_6_18\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "15": {
+                  "title": "Age: 0-5 (Juvenile)",
+                  "id": "131.31922cba117f462a",
+                  "attr": {
+                    "note": {
+                      "index": 40,
+                      "text": "## Percentage of Population by Age Group: 0-5 Juvenile\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 0-5 Juvenile\",\n    \"application\": \"The data represent the juvenile population segment (age 0-5 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_0_5\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "9.5": {
+                  "title": "Age: 81-102 (Frail)",
+                  "id": "76.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 32,
+                      "text": "## Percentage of Population by Age Group: 81-102 Frail\n\nhttp://www.sasdi.net/metaview.aspx?uuid=4a0e9a78f363b34731e1b50db67e0ca5\n\n{\n    \"title\": \"Percentage of Population by Age Group: 81-102 Frail\",\n    \"application\": \"The data represent the frail population segment (age 81-102 years) in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"age_81_102\",\n    \"role\": \"susceptibility\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  },
+                  "ideas": {}
+                }
+              },
+              "id": "69.316789d55595123",
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            }
+          },
+          "attr": {}
+        },
+        "2": {
+          "title": "Environment",
+          "ideas": {
+            "1": {
+              "title": "Vulnerable Ecosystems",
+              "attr": {
+                "position": [
+                  207,
+                  -7,
+                  1
+                ],
+                "note": {
+                  "index": 24,
+                  "text": "## Vulnerable Ecosystems \n\nhttp://www.sasdi.net/metaview.aspx?uuid=dbf5796a602ff56ab7b5c8dc4c602e88\n\n{\n    \"title\": \"Terrestrial Ecosystem Threat Status\",\n    \"application\": \"An estimation of ecosystem threat status was made using the following criteria; irreversible loss of natural habitat, limited extent and imminent threat, threatened plant species associations and finally, priority areas for meeting explicit biodiversity targets as defined in a systematic biodiversity plan. More generally, this is an estimation of the intactness, structure, function and composition of an ecosystem which define that system’s ability to provide ecosystem services. Ecosystems are ranked from most (critically endangered) to least affected (least threatened). Estimations were made based off of comparisons in ecosystems between 2006 and 2011.  \",                                               \n    \"style\": \"threatened_ecosystems\",\n    \"colourmap\":\n        [\n        \t{\"Critically endangered\": \"#2b87b1\"},\n\t\t{\"Endangered\": \"#a6cee3\"},\n\t\t{\"Least threatened\": \"#ffdf9a\"},\n\t\t{\"Vulnerable\": \"#d7191c\"}\n\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Biodiversity and Ecosystems\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Biodiversity\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Environment\"]\n        \t}\n        ]\n}"
+                },
+                "style": {
+                  "background": "#00CCFF"
+                }
+              },
+              "id": "63.316789d55595123"
+            }
+          },
+          "id": "62.316789d55595123"
+        },
+        "12": {
+          "title": "Transformed Land Use",
+          "id": "114.31922cba117f462a",
+          "ideas": {
+            "1": {
+              "title": "Agriculture",
+              "ideas": {
+                "2": {
+                  "title": "Agricultural GVA",
+                  "attr": {
+                    "note": {
+                      "index": 19,
+                      "text": "## Agricultural GVA\n\nhttp://www.sasdi.net/metaview.aspx?uuid=70898b01df2ceca2172aee8195779ff3\n\n{\n    \"title\": \"GVA- Agriculture, Forestry and Fisheries\",\n    \"application\": \"The Gross Geographic Value Added (GVA)  is used as a basis for making estimates of regional economic activity. The dataset considers the areas and the extent to which agriculture, forestry and fisheries contribute to the GVA and is based on data from 2009.\",                                               \n    \"style\": \"GVA_SIC1\",\n    \"colourmap\":\n        [\n       \t\t{\"0 - 2\": \"#ffffff\"},\n\t\t{\"3 - 5\": \"#fde86e\"},\n\t\t{\"6 - 10\": \"#ffd55f\"},\n\t\t{\"11 - 50\": \"#ffc34b\"},\n\t\t{\"51 - 150\": \"#f4ae34\"},\t\n\t\t{\"151 - 200\": \"#e39229\"},\n\t\t{\"201 - 400\": \"#c66a1a\"},\n\t\t{\"401 - 600\": \"#a84a0f\"},\n\t\t{\"601 - 800\": \"#852907\"},\n\t\t{\"801 - 1200\": \"#6a0000\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Agriculture\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Industry\"]\n        \t}\n        ]\n}"
+                    },
+                    "style": {
+                      "background": "#00CCFF"
+                    }
+                  },
+                  "id": "61.316789d55595123"
+                },
+                "3": {
+                  "title": "Typology",
+                  "attr": {
+                    "note": {
+                      "index": 15,
+                      "text": "## Agricultural Typology\n\nhttp://www.sasdi.net/metaview.aspx?uuid=9211e4f41167ef04cc75bb43e7ddfc01\n\nField Crop Boundaries\n\n{\n    \"title\": \"Field Crop Boundaries\",\n    \"application\": \"For the dataset, fields were categorised as ‘formal’ or ‘informal’ and by whether they would be available for additional agricultural production with each having several subcategories. Data was generated in 2006.\",                                               \n    \"style\": \"Field Crop Boundaries\",\n    \"colourmap\":\n        [\n       \t\t{\"Annual Crop Cultivation / Planted Pastures Rotation\":\"#9b1f1d\"},\n\t\t{\"Horticulture / Viticulture\":\"#4dc489\"}, \n\t\t{\"Old Fields\":\"#f16d3d\"}, \n\t\t{\"Pivot Irrigation\":\"#7bae65\"}, \n\t\t{\"Shadenet\":\"#5a8de5\"}, \n\t\t{\"Small Holdings\":\"#8a842f\"}, \n\t\t{\"Strip Field Cultivation\":\"#e268f2\"}, \n\t\t{\"Subsistence Farming\":\"#324983\"}, \n\t\t{\"Subsistence Farming 1\":\"#4e8d6a\"}, \n\t\t{\"Subsistence Farming 2\":\"#f56e3c\"}, \n\t\t{\"Tea Plantations\":\"#888132\"} \t\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Agriculture\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [\"Agriculture\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Transformed Land Use\"]\n        \t}\n        ]\n}"
+                    },
+                    "style": {
+                      "background": "#00CCFF"
+                    }
+                  },
+                  "id": "57.316789d55595123"
+                },
+                "4": {
+                  "title": "Irrigation",
+                  "ideas": {
+                    "1": {
+                      "title": "Irrigated",
+                      "attr": {
+                        "style": {
+                          "background": "#008000"
+                        }
+                      },
+                      "ideas": {},
+                      "id": "59.316789d55595123"
+                    },
+                    "2": {
+                      "title": "Dryland",
+                      "attr": {
+                        "style": {
+                          "background": "#008000"
+                        }
+                      },
+                      "id": "60.316789d55595123"
+                    }
+                  },
+                  "id": "58.316789d55595123",
+                  "attr": {
+                    "position": [
+                      96.79171752929688,
+                      59.215293884277344,
+                      1
+                    ]
+                  }
+                }
+              },
+              "id": "55.316789d55595123"
+            },
+            "2": {
+              "title": "Commercial Forestry",
+              "attr": {
+                "note": {
+                  "index": 26,
+                  "text": "## Commercial Forests\n\nhttp://www.sasdi.net/metaview.aspx?uuid=86a36bba540850d3feb2814dc6096c74\n\n{\n    \"title\": \"Commercial Forests in South Africa\",\n    \"application\": \"The dataset contains the area and distributions of commercial Acacia, Pine and Eucalyptus forests only. As no commercial forests of these species were being cultivated in the Northern Cape province or the North-West province at the time, no data has been included for them.  The data was collected in 2011.\",                                               \n    \"style\": \"Commercial_PlantationsSA\",\n    \"colourmap\":\n        [\n       \t\t{\"\":\"#ed32c4\"} \t\n\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Agriculture\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Forestry\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Transformed Land Use\"]\n        \t}\n        ]\n}"
+                },
+                "style": {
+                  "background": "#00CCFF"
+                },
+                "position": [
+                  164,
+                  79.20555114746094,
+                  1
+                ]
+              },
+              "id": "65.316789d55595123"
+            }
+          },
+          "attr": {
+            "position": [
+              65.6770887374878,
+              91.02778625488281,
+              2
+            ]
+          }
+        },
+        "0.5": {
+          "title": "Infrastructure ",
+          "attr": {
+            "style": {
+              "width": 50
+            },
+            "position": [
+              72,
+              -220,
+              3
+            ]
+          },
+          "ideas": {
+            "3": {
+              "title": "Water ",
+              "ideas": {
+                "1": {
+                  "title": "Water from  Municipalities",
+                  "id": "98.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 18,
+                      "text": "## Percentage of Population that Source Water from Municipalities\n\nhttp://www.sasdi.net/metaview.aspx?uuid=08559d446e912b35a23a93d3366b0545\n\n{\n    \"title\": \"Percentage of Population that Source Water from Municipalities\",\n    \"application\": \"The data represent the percentage of the population that source water from municipalities in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"water_municipality\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Infrastructure\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "\nNo piped water schemes",
+                  "id": "99.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 19,
+                      "text": "Percentage of population who do not source water from piped water schemes\n\nhttp://www.sasdi.net/metaview.aspx?uuid=08559d446e912b35a23a93d3366b0545\n\n{\n    \"title\": \"Percentage of population who do not source water from piped water schemes\",\n    \"application\": \"The data represent the percentage of the population that do not source water from piped water schemes in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"water_none\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Infrastructure\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Water from dam/spring/stream",
+                  "id": "100.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 20,
+                      "text": "Percentage of Population that Source Water from Dam/Spring/Stream\n\nhttp://www.sasdi.net/metaview.aspx?uuid=08559d446e912b35a23a93d3366b0545\n\n{\n    \"title\": \"Percentage of Population that Source Water from Dam/Spring/Stream\",\n    \"application\": \"The data represent the percentage of the population that source water from a damn, spring or stream in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"water_dam\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Infrastructure\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Dams http://sarva.dirisa.org/metadata/dwa/metadata/meta136960285679",
+                  "id": "101.316789d55595123",
+                  "attr": {
+                    "style": {
+                      "background": "#008000"
+                    }
+                  }
+                }
+              },
+              "id": "97.316789d55595123",
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                },
+                "position": [
+                  169,
+                  -50,
+                  3
+                ]
+              }
+            },
+            "6": {
+              "title": "Human Settlements",
+              "id": "115.31922cba117f462a",
+              "ideas": {
+                "1": {
+                  "title": "Pit toilets",
+                  "id": "70.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 24,
+                      "text": "## Percentage of the population using pit toilets\n\nhttp://www.sasdi.net/metaview.aspx?uuid=ce9588cdcbb90a16cde9c91223963a2d\n\n{\n    \"title\": \"Percentage of the Population Using Pit Toilets\",\n    \"application\": \"The data represent the percentage of the population using pit toilets in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"toilet_pit\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Flush toilets",
+                  "id": "71.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 25,
+                      "text": "## Percentage  of the population with access to flush toilets\n\nhttp://www.sasdi.net/metaview.aspx?uuid=ce9588cdcbb90a16cde9c91223963a2d\n\n{\n    \"title\": \"Percentage  of the population with access to flush toilets\",\n    \"application\": \"The data represent the percentage of the population with access to flush toilets in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"toilet_flush\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Infrastructure\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "No rubbish disposal",
+                  "id": "72.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 26,
+                      "text": "## Percentage of Households with no Rubbish Disposal\n\nhttp://www.sasdi.net/metaview.aspx?uuid=2b2f4197ce35fdb13a7169609bcc6cea \n\n{\n    \"title\": \"Percentage of Households with no Rubbish Disposal\",\n    \"application\": \"The data represent the percentage of the population without rubbish disposal in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"refuse_disposal\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Infrastructure\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Informal dwellings",
+                  "id": "73.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 27,
+                      "text": "## Percentage of Households in Informal Dwellings\n\nhttp://www.sasdi.net/metaview.aspx?uuid=a045e54625e587845bd03136241ecc28\n\n{\n    \"title\": \"Percentage of Households in Informal Dwellings\",\n    \"application\": \"The data represent the percentage of households living in informal dwellings in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"households_informal\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "\nTraditional dwellings",
+                  "id": "74.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 28,
+                      "text": "## Percentage of Households in Traditional Dwellings\n\nhttp://www.sasdi.net/metaview.aspx?uuid=a045e54625e587845bd03136241ecc28\n\n{\n    \"title\": \"Percentage of Households in Traditional Dwellings\",\n    \"application\": \"The data represent the percentage of households living in traditional dwellings in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census. \",                                               \n    \"style\": \"households_traditional\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Alternatives to electricity for cooking",
+                  "id": "75.316789d55595123",
+                  "attr": {
+                    "note": {
+                      "index": 29,
+                      "text": "## Percentage of households that use alternatives to electricity for cooking\n\nhttp://www.sasdi.net/metaview.aspx?uuid=cea113e849781bf1da337457ae0c9f48 \n\n{\n    \"title\": \"Percentage of households that use alternatives to electricity for cooking\",\n    \"application\": \"The data represent the percentage of households using alternatives to electricity for cooking in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"cooking_alternatives\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 50\": \"#73b3d8\"},\n\t\t{\"50 -100\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Household Distribution",
+                  "id": "133.4e215fc1206b6d56",
+                  "attr": {
+                    "note": {
+                      "index": 29,
+                      "text": "## Household Distribution: Dwelling Frame\n\nhttp://www.sasdi.net/metaview.aspx?uuid=a045e54625e587845bd03136241ecc28 \n\n{\n    \"title\": \"Percentage of Households in Informal Dwellings\",\n    \"application\": \"The data represents the percentage of households living in informal dwellings in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"households_informal\",\n    \"role\": \"coping capacity\",\n    \"aggregation\": \"sum\",     \n    \"colourmap\":\n        [\n       \t\t{\"None\": \",100\"},\n\t\t{\"1 - 50\": \"#73b3d8,75\"},\n\t\t{\"50 -100\": \"#08306b,25\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                },
+                "position": [
+                  132,
+                  60,
+                  2
+                ]
+              }
+            },
+            "7": {
+              "title": "Road Density",
+              "id": "132.71436ea187b71ce4",
+              "attr": {
+                "note": {
+                  "index": 30,
+                  "text": "Density of Road Infrastructure\n\nhttp://www.sasdi.net/metaview.aspx?uuid=ef832460c76dab2b49733ec8242029dc\n\n{\n    \"title\": \"Density of Road Infrastructure\",\n    \"application\": \"The data represent the total number of roads present within a unit area. The data were collected in 2018.\",                                               \n    \"style\": \"road_count\",\n    \"colourmap\":\n        [\n       \t\t{\"None\": \"\"},\n\t\t{\"1 - 100\": \"#73b3d8\"},\n\t\t{\"100 -347\": \"#08306b\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Infrastructure\"]\n        \t}\n        ]\n}"
+                }
+              }
+            }
+          },
+          "id": "53.316789d55595123"
+        }
+      }
+    },
+    "6": {
+      "title": "Heatwave",
+      "id": "117.31922cba117f462a",
+      "attr": {
+        "position": [
+          -291.66314697265625,
+          -581.9722137451172,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        },
+        "note": {
+          "index": 51,
+          "text": "## Percentage of Households in Informal Dwellings\n\nhttp://www.sasdi.net/metaview.aspx?uuid=a045e54625e587845bd03136241ecc28\n{\n    \"title\": \"Percentage of Households in Informal Dwellings\",\n    \"application\": \"The data represent the percentage of households living in informal dwellings in three categories; none, less than 50% and greater than 50% of the population in that area. Data were collected in 2011 from the census.\",                                               \n    \"style\": \"households_informal\",\n    \"role\": \"coping capacity\",\n    \"aggregation\": \"sum\",     \n    \"colourmap\":\n        [\n       \t\t{\"None\": \",100\"},\n\t\t{\"1 - 50\": \"#73b3d8,75\"},\n\t\t{\"50 -100\": \"#08306b,25\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Socio-economic\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Lives and Health\"]\n        \t}\n        ]\n}\n\n## Population Living in Poverty\n\nhttp://www.sasdi.net/metaview.aspx?uuid=893fecc433b5c8cbef3410ef96a4802f\n\n{\n    \"title\": \"Population Living in Poverty\",\n    \"application\": \"The data show the percentage of people with an income below the upper bound poverty line (R992 per person per month (pppm)) within an area. The data was collected in 2011. We use this as a proxy for lack of coping capacity during heatwaves.\",                                               \n   \"style\": “population_poverty”,\n    \"role\": \"coping capacity\",\n    \"aggregation\": \"sum\",\n    \"colourmap\":\n        [\n        {\"None\": “,100”},\n        {\"1 - 33\": “#72b2d7,84”},\n        {\"33 - 66\": “#2878b8,50”},\n        {“67 - 100”: “#08306b,17”}\n        ],\n    \"filters\":\n        [\n            {\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [\"Disaster, Infrastructure and Human Settlements\"]\n            },\n            {\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [\"Socio-economic\"]\n            },\n\t    {\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Human Livelihoods\"]\n            }\n        ]\n}\n\n## Heatwave Frequency\n\nhttp://www.sasdi.net/metaview.aspx?uuid=e33c9448e27b0221ed1993e5946385cc \n\n{\n    \"title\": \"Frequency of Exposure to Extreme Temperature -  > 30C On 3 Or More Consecutive Days\",\n    \"application\": \"The dataset areas exposed to 3 consecutive days of extreme temperature in an area per year from 1950 to 1999. Such events are generally large high pressure circulating systems that can last for several days to weeks.\",                                               \n    \"style\": \"_grid:heatwaves1c\",\n    \"role\": \"frequency\",\n    \"aggregation\": \"sum\",\n    \"colourmap\":\n        [\n{\"0.00%\":\"#FFFFFF,0.000\"},\n{\"0.27%\":\"#FFFFC4,0.003\"},\n{\"0.82%\":\"#FFFF00,0.008\"},\n{\"1.37%\":\"#FFD2D2,0.014\"},\n{\"1.92%\":\"#FCDBB6,0.019\"},\n{\"2.47%\":\"#FF8204,0.025\"},\n{\"3.01%\":\"#F83E07,0.030\"},\n{\"3.56%\":\"#FFBBBB,0.036\"},\n{\"4.11%\":\"#FF6464,0.041\"},\n{\"4.66%\":\"#FF0000,0.047\"},\n{\"5.21%\":\"#820000,0.052\"}\n        ],\n    \"filters\":\n        [\n            \t{\n                \"filtername\":\"Let’s Respond Toolkit\",\n                \"themes\": [ \"Human Health\"]\n            \t},\n            \t{\n                \"filtername\":\"SARVA 2.0\",\n                \"themes\": [ \"Weather and Climate\"]\n            \t},\n\t\t{\n                \"filtername\":\"Profiler\",\n                \"themes\": [\"Extreme Weather\"]\n        \t}\n        ]\n}"
+        }
+      }
+    },
+    "7": {
+      "title": "Agricultural Drought",
+      "id": "118.31922cba117f462a",
+      "attr": {
+        "position": [
+          -260.2221984863281,
+          -285.74302673339844,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    },
+    "8": {
+      "title": "Fire Events",
+      "id": "120.31922cba117f462a",
+      "attr": {
+        "position": [
+          -289,
+          -394.97569274902344,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    },
+    "9": {
+      "title": "Biome Change/ Shift",
+      "id": "122.31922cba117f462a",
+      "attr": {
+        "position": [
+          -297.4443817138672,
+          -182.30552673339844,
+          1
+        ],
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    }
+  },
+  "title": "Drivers",
+  "links": [
+    {
+      "ideaIdFrom": "45.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "54.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "77.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "76.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "98.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "99.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "100.316789d55595123",
+      "ideaIdTo": "117.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "63.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "63.316789d55595123",
+      "ideaIdTo": "122.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "61.316789d55595123",
+      "ideaIdTo": "118.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "54.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "77.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "76.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "75.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "74.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "73.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "72.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "98.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "99.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "100.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "57.316789d55595123",
+      "ideaIdTo": "118.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "57.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "59.316789d55595123",
+      "ideaIdTo": "118.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "60.316789d55595123",
+      "ideaIdTo": "118.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "65.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "59.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "60.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "47.316789d55595123",
+      "ideaIdTo": "118.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "49.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "51.316789d55595123",
+      "ideaIdTo": "122.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "78.316789d55595123",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "132.71436ea187b71ce4",
+      "ideaIdTo": "120.31922cba117f462a",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    }
+  ],
+  "attr": {
+    "previous-atlas-export": {
+      "publishedTimestamp": 1522060931198,
+      "title": "Roadshow 2.0",
+      "description": "MindMup mind map: Roadshow 2.0",
+      "slug": "roadshow_2_0",
+      "gaClientCode": false
+    }
+  }
+}

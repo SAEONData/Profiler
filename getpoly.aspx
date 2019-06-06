@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="getpoly.aspx.cs" Inherits="profiler.getpoly" %>

@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <script type="text/javascript" src="Scripts/jquery-2.1.3.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        function doPost() {
+
+
+            function successFunc() {
+                alert('ok');
+            }
+
+            function errorFunc(a, b, c) {
+                alert(b);
+            }
+
+            $.ajax({
+                type: "POST",
+                url: $('#myUrl').val(),
+                data: $('#myPost').val(),
+                contentType: "application/json",
+                dataType: "json",
+                success: successFunc,
+                error: errorFunc
+            });
+        }
+
+    </script>
+
+    <form id="form1" runat="server">
+        <div>
+            <strong>URL</strong>
+            <br />
+            <input style="width: 80%" type="text" id="myUrl" value="http://app01.saeon.ac.za/nccrdapi/odata/Projects/Extensions.ByPolygon?$expand=ProjectLocations($expand=Location($select=LatCalculated,LonCalculated))&$select=ProjectId,ProjectTitle,ProjectDescription" />
+            <br />
+            <br />
+            <strong>Post data</strong>
+            <br />
+            <textarea style="width: 80%; height: 100px" type="text" id="myPost">{polygon : "POLYGON((22.4937599998636 -34.043560018269389, 21.515405736635756 -34.259668867905972, 20.533409999684633 -34.470000018747875, 20.005839999635253 -34.834100019156487, 18.826029999529737 -34.3880500186506, 18.779939999527027 -34.085110018308178, 18.421689999493335 -34.326750018579986, 18.437959999498037 -33.692560017862363, 17.843839999449369 -32.825460016874977, 18.334189999494988 -32.473970016476763, 17.757349999451 -31.15208001497086, 18.006479999474845 -30.791240014562621, 18.380549999509203 -30.459640014188874, 18.75870999954175 -30.567870014312565, 19.140008696058867 -31.619928169673038, 19.528249999600604 -32.673240016707588, 20.180949999660562 -32.184490016152978, 20.438599999681035 -32.940060017013572, 22.089649999830293 -32.146360016113107, 22.272919999847428 -31.592540015483056, 23.098489999920048 -31.977700015922057, 23.416449999948444 -31.672220015574581, 24.046840000004178 -31.70669001561393, 24.130370000011617 -32.131940016097829, 23.221629999930691 -32.425030016431343, 23.378619999944465 -32.825020016886718, 23.089339999918579 -32.799170016857154, 22.739269999886641 -33.32398001745365, 23.603999999964365 -33.496400017649925, 23.395039999945382 -33.792640017985875, 23.647889999968196 -33.980050018198206, 22.4937599998636 -34.043560018269389))"}</textarea>
+            <br />
+            <br />
+            <input type="button" onclick="doPost();" value="Test Post" />
+            <br />
+            <br />
+            <strong>Result</strong>
+            <br />
+            <textarea style="width: 80%; height: 100px" type="text" id="myRes"></textarea>
+
+        </div>
+    </form>
+</body>
+</html>

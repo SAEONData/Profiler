@@ -34,31 +34,41 @@ namespace profiler
             v1 = Request["v1"];
             v2 = Request["v2"];
 
-
-            chartFrameSrc = "chart.aspx?id=" + Request["id"] + "&v1=" + v1 + "&v2=" + v2;
-            
-
-            dynamic ideas = mm.ReadIdeas(Context);
-
-            if (v1 != null && v1 != "")
+            try
             {
-                var1 = mm.GetVariable(ideas, v1, Context);
-                if (var1 == null)
+
+
+                chartFrameSrc = "chart.aspx?id=" + Request["id"] + "&v1=" + v1 + "&v2=" + v2;
+
+
+                dynamic ideas = mm.ReadIdeas(Context);
+
+                if (v1 != null && v1 != "")
                 {
-                    Response.End();
-                    return;
+                    var1 = mm.GetVariable(ideas, v1, Context);
+                    if (var1 == null)
+                    {
+                        Response.End();
+                        return;
+                    }
                 }
+
+                if (v2 != null && v2 != "")
+                {
+                    chartFrameSrc = "loading.aspx";
+                    var2 = mm.GetVariable(ideas, v2, Context);
+                    if (var2 == null)
+                    {
+                        Response.End();
+                        return;
+                    }
+                }
+
             }
-
-            if (v2 != null && v2 != "")
+            catch (Exception err)
             {
-                chartFrameSrc = "loading.aspx";
-                var2 = mm.GetVariable(ideas, v2, Context);
-                if (var2 == null)
-                {
-                    Response.End();
-                    return;
-                }
+                Response.Write(err.Message.Replace("editbew123", "******")); 
+                Response.End();
             }
 
 

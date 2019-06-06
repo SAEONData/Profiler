@@ -1,8 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
+using System.Net.Http;
+using System.Text;
 using System.Web;
+using System.Web.Script.Serialization;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
@@ -43,16 +47,32 @@ namespace profiler
             feature = gs.GetFeatureDB(Context, int.Parse(id));
 
 
+
             MMTools mm = new MMTools(Context);
             string region = mm.GetRegionName(int.Parse(id));
             regionID = mm.GetRegionID(region);
             if (regionID != 0)
             {
-                String featureURL = "http://app01.saeon.ac.za/nccrdapi/api/Projects/GEO/GetAll?regionId=" + regionID;
-                using (WebClient wc = new WebClient())
+                using (HttpClient client = new HttpClient())
                 {
-                    features = wc.DownloadString(featureURL);
+                    Uri baseAddress = new Uri("http://app01.saeon.ac.za/nccrdapi/");
+                    client.BaseAddress = baseAddress;
+
+                    //Setup post body
+                    var postBody = new { polygon = feature.wkt };
+
+                    //Get response
+                    var response = client.PostAsync("odata/Projects/Extensions.ByPolygon?$expand=ProjectLocations($expand=Location($select=LatCalculated,LonCalculated))&$select=ProjectId,ProjectTitle,ProjectDescription", new StringContent(new JavaScriptSerializer().Serialize(postBody), Encoding.UTF8, "application/json")).Result;
+                    /*
+                    if (!response.IsSuccessStatusCode)
+                    {
+                        String url = baseAddress + "api/Projects/GetByPolygonPost";
+                        throw new HttpRequestException(url + "\nPost body:" + postBody);
+                    }
+                    */
+                    features = response.Content.ReadAsStringAsync().Result;
                 }
+
             }
 
             dynamic ideas = mm.ReadIdeas(Context);
@@ -79,4 +99,5 @@ namespace profiler
 
         }
     }
+
 }

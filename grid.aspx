@@ -414,7 +414,6 @@
             
             if (root.note && root.note.filters) {
 //                if (root.title == 'Dams')
-                    debugger;
                 root.filters = [];
                 for (var f in root.note.filters) {
                     var filter = root.note.filters[f];

@@ -36,8 +36,8 @@ namespace profiler
 
         public double selectedValue = -1;
         public string selectedColor = "";
-
-
+        
+        
 
         int bmpx = 500;
         int bmpy = 500;
@@ -99,6 +99,8 @@ namespace profiler
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            Session.LCID = 1033;
+
             String mode = Request["mode"];
             if (mode != null && mode != "")
             {

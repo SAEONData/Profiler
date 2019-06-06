@@ -280,16 +280,14 @@
         var iconFeatures = [];
 
         var features = <%=features%>;
+        debugger;
         for (var f in features) {
             var feat = features[f];
-            var properties = feat.properties;
-            var geometry = feat.geometry;
-            var coordinates = geometry.coordinates;
 
             var feature = new ol.Feature({
-                id: properties.id,
-                title: properties.name,
-                geometry: new ol.geom.Point(ol.proj.transform([coordinates[1], coordinates[0]], 'EPSG:4326', 'EPSG:900913')),
+                id: feat.ProjectId,
+                title: feat.ProjectTitle,
+                geometry: new ol.geom.Point(ol.proj.transform([feat.LonCalculated, feat.LatCalculated], 'EPSG:4326', 'EPSG:900913')),
                 
             });
 
@@ -383,8 +381,8 @@
                 }
             })
 
-            if (id != null) {
-                var url = 'http://app01.saeon.ac.za/nccrdsite/projectdetails.html?projectId=' + id;
+            if (id != null) { 
+                var url = 'http://app01.saeon.ac.za/nccrdsite/#/projects/' + id + '?navbar=hidden';
                 parent.parent.addPage(title, url);
             }
         })

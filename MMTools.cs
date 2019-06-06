@@ -327,14 +327,24 @@ namespace profiler
         public int GetRegionID(String RegionName)
         {
 
-            String url = "http://app01.saeon.ac.za/nccrdapi/api/Region/GetByType/3";
+            String url = "http://app01.saeon.ac.za/nccrdapi/odata/regions?$filter=LocationTypeId%20eq%203";
             int regionID = -1;
             using (WebClient wc = new WebClient())
             {
-                String txt = wc.DownloadString(url);
+
+                String txt;
+                try
+                {
+                    txt = wc.DownloadString(url);
+                }
+                catch (Exception)
+                {
+                    throw new Exception("Failed to download: " + url);
+                }
 
                 JavaScriptSerializer js = new JavaScriptSerializer();
-                dynamic regions = js.DeserializeObject(txt);
+                dynamic ret = js.DeserializeObject(txt);
+                dynamic regions = ret["value"];
                 foreach (dynamic region in regions)
                 {
                     String name = region["RegionName"];

@@ -1,7 +1,7 @@
 ﻿{
 	'title': 'SARVA 2',
 	'description': 'The South African Risk and Vulnerability Atlas (SARVA) is sponsored by the Department of Science and Technology (DST) and managed by the CSIR and is intended to be a central repository of a wide range of climate and environmental data for South Africa.  CSAG is both a technical partner in the development as well as being mandated to provide high resolution downscaled climate projections as a core dataset within the Atlas.  In the future the CSAG/UNITAR Climate Information Portal (CIP) and SARVA will be more closely integrated with direct links to the CIP web client and possible integration of CIP components into the SARVA platform.',
-	'mindmup': 'mm/RoadshowStocks4.txt',
+        'mindmup': 'mm/Roadshow3.3.txt',
 	'rootStock': 'Stocks',
 	'rootDriver': 'Drivers',
 	'features': [

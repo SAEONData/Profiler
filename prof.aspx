@@ -91,6 +91,13 @@
 
             $('#btn_mapFrame').trigger('click');
 
+            var data = {
+                navbar: 'hidden',
+                polygon: 'POLYGON((21.0 -24.0,25.0 -24.0,25.0 -28.0,21.0 -28.0,25.0 -24.0,21.0 -24.0))'
+            }
+
+            // <!-- postToIframe(data, 'http://app01.saeon.ac.za/nccrdsite/#/projects', 'MaFrame'); -->
+
             /*
             $('#btn_MaFrame').hide();
             $('#btn_EventFrame').hide();
@@ -222,6 +229,15 @@
         }
 
 
+        function postToIframe(data,url,target){
+            $('body').append('<form action="'+url+'" method="post" target="'+target+'" id="postToIframe"></form>');
+            $.each(data,function(n,v){
+                $('#postToIframe').append('<input type="hidden" name="'+n+'" value="'+v+'" />');
+            });
+            $('#postToIframe').submit().remove();
+        }
+
+
     </script>
 </head>
 <body style="padding-left: 10px; overflow-x: hidden; overflow-y: hidden">
@@ -244,7 +260,7 @@
         <iframe class="pageFrame" id="chartFrame" name="chartFrame" src="<%=chartFrameSrc%>"></iframe>
         <iframe class="pageFrame" id="gridFrame" name="gridFrame" src="chart.aspx?id=<%=Request["id"]%>&v1=<%=v1%>&v2=<%=v2%>"></iframe>
 
-        <iframe class="pageFrame" id="MaFrame" name="gridFrame" src="http://app01.saeon.ac.za/nccrdjdt/projects.html?regionId=<%=regionID%>"></iframe>
+        <iframe class="pageFrame" id="MaFrame" name="MaFrame" src="http://app01.saeon.ac.za/nccrdsite/#/projects?navbar=hidden&polygon=<%=Server.UrlEncode("http://app01.saeon.ac.za/profiler/getpoly.aspx?id=" + Request["id"])%>"></iframe>
         <iframe class="pageFrame" id="EventFrame" name="gridFrame" src="frame_events.aspx?id=<%=Request["id"]%>&v1=<%=v1%>&v2=<%=v2%>"></iframe>
 
 
